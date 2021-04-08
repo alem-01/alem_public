@@ -1,6 +1,6 @@
 FROM google/dart:2.12
 
-WORKDIR /jail
+WORKDIR /app
 COPY . .
 RUN dart pub get
-ENTRYPOINT ["/jail/entrypoint.sh"]
+ENTRYPOINT ["/app/entrypoint.sh"]

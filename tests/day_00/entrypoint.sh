@@ -2,4 +2,4 @@
 
 set -e
 
-dart run "${EXERCISE}_test.dart"
+dart run "/app/${EXERCISE}_test.dart"
