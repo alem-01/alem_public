@@ -13,5 +13,5 @@ void main() {
 To run the program, execute a command:
 
 ```bash
-dart ex_00.dart
+dart intro.dart
 ```
