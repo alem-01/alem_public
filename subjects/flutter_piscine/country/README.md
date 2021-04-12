@@ -10,7 +10,7 @@ Its fields:
 - population - int
 - yearOfIndependence - int?
 
-Constructor:
+### Construcor
 
 - name - required
 - capital - required

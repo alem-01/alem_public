@@ -10,6 +10,8 @@ bool isEven(int num) {
 
 ---
 
+### Exercise
+
 Write function `int plainSum(int, int, int)` which takes 3 ints and returns its sum.
 
 Example of usage:
