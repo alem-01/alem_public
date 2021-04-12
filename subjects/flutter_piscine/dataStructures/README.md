@@ -50,3 +50,5 @@ Declare and initialize following variables:
 - `listList` of type `List<List<Object>>` containing a list of lists containing `listNum`, `listObj`, `listStr`;
 - `setStr` of type `Set<String>` containing at least 3 items;
 - `mapStr` of type `Map<String, int>` containing at least 3 pairs;
+
+> Note: main is not needede!
