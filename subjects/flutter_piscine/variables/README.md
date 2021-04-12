@@ -17,3 +17,4 @@ Declare and initialize following variables:
 - `year` of type `int` containing current year;
 - `lucky` of type `bool` containing true of false (you decide);
 - constant `pi` of type `double` containing pi value;
+> Note: no main needed!
