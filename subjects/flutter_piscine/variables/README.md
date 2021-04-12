@@ -16,4 +16,5 @@ Declare and initialize following variables:
 - `planet` of type `String` containing planet's name you live in;
 - `year` of type `int` containing current year;
 - `lucky` of type `bool` containing true of false (you decide);
-- constant `pi` of type `double` containing pi value;
+- constant `pi` of type `double` containing pi value with 2 decimal points;
+> Note: no main needed!
