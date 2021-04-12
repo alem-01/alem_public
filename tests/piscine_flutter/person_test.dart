@@ -61,5 +61,31 @@ void main() {
         expect(person.height, equals(tmpHeight));
       });
     }
+    for (int i = 0; i < 50; i++) {
+      Random rnd = new Random();
+      var tmpName = arrNames[rnd.nextInt(arrNames.length)];
+      var tmpCity = arrCities[rnd.nextInt(arrCities.length)];
+      var tmpAge = arrAges[rnd.nextInt(arrAges.length)];
+      var tmpHeight = arrHeights[rnd.nextInt(arrHeights.length)];
+      var tmpSurname = arrNames[rnd.nextInt(arrNames.length)];
+
+      student.Person person = student.Person(
+        tmpName,
+        tmpCity,
+        tmpAge,
+        tmpHeight,
+        tmpSurname,
+      );
+
+      test(
+          'Person(\'${tmpName}\', \'${tmpCity}\', ${tmpAge}, ${tmpHeight}, ${tmpSurname})',
+          () {
+        expect(person.name, equals(tmpName));
+        expect(person.cityOfOrigin, equals(tmpCity));
+        expect(person.age, equals(tmpAge));
+        expect(person.height, equals(tmpHeight));
+        expect(person.surname, equals(tmpSurname));
+      });
+    }
   });
 }
