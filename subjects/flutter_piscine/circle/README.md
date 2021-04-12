@@ -44,3 +44,5 @@ Its fields:
   - x - required
   - y - required
   - radius - required
+
+> Note: pi equals 3.14
