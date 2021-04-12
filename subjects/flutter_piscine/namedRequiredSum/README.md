@@ -1,4 +1,4 @@
-## namedRequiredSum
+## namedOptionalSum
 
 ### Named parameters
 
