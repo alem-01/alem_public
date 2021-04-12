@@ -22,9 +22,7 @@ class Rectangle {
 
 void main() {
   var rect = Rectangle(3, 4, 20, 15);
-  assert(rect.left == 3); // need to investigate
   rect.right = 12;
-  assert(rect.left == -8); // need to investigate
 }
 ```
 
