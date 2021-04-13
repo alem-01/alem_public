@@ -81,7 +81,7 @@ Change the content of lib/main.dart, so your app will look like:
 
 <center>
 
-<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/55962bd3-8dda-4de1-9e51-f5098a599b68/Screenshot_1616764154.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210412%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210412T125626Z&X-Amz-Expires=86400&X-Amz-Signature=0a603f970af807bfc2a7cd9dcae2615a4d5b8eedbcb512cf33ae6c6fb0d8f98c&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Screenshot_1616764154.png%22" alt="drawing" height="200"/>
+<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/55962bd3-8dda-4de1-9e51-f5098a599b68/Screenshot_1616764154.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210412%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210412T125626Z&X-Amz-Expires=86400&X-Amz-Signature=0a603f970af807bfc2a7cd9dcae2615a4d5b8eedbcb512cf33ae6c6fb0d8f98c&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Screenshot_1616764154.png%22" alt="drawing"/>
 
 </center>
 
