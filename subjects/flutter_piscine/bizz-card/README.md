@@ -87,7 +87,7 @@ Change the content of lib/main.dart, so your app will look like:
 
 Page should have:
 
-- [ ] User.dart file for User model with parameters:
+- User.dart file for User model with parameters:
 
 ```
 final String fullName;
@@ -96,12 +96,12 @@ final String mail;
 final String age;
 ```
 
-- [ ] AppBar
-- [ ] Column to align text in a card
-- [ ] Stack to place image on Container
-- [ ] Padding to add paddings to Container
-- [ ] Use DecorationImage inside BoxDecoration to style image
-- [ ] Use InkWell and SnackBar to show snackbar with `Tapped on ${name}` on click
+- AppBar
+- Column to align text in a card
+- Stack to place image on Container
+- Padding to add paddings to Container
+- Use DecorationImage inside BoxDecoration to style image
+- Use InkWell and SnackBar to show snackbar with `Tapped on ${name}` on click
 
 <center>
 
@@ -109,6 +109,6 @@ final String age;
 
 </center>
 
-- [ ] Bonus : add a FloatingActionButton to make a call to a given number
+- Bonus : add a FloatingActionButton to make a call to a given number
 
 Note: you can only import from package:flutter/ and from dart standard packages
