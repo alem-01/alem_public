@@ -4,13 +4,12 @@ Develop an app with the functional of alarm, stopwatch, timer, world clock.
 
 ## Objective
 
-- Working with system calls to make alarm, timer
-- Apply iOS and Android specific calls for alarm, timer
+- Working with system calls to make alarm
+- Apply iOS and Android specific calls for alarm
 - Working with Dart's date objects, and their functionality
 - Working with memory to memorize alarms, chosen region.
-- Using API for world clock.
 
-## Part 1
+## Alarm
 
 Make an alarm page. One should be able to add, delete, change alarms. Make sure alarms can be set periodically, i.e. every day.
 
