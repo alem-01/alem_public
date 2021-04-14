@@ -20,35 +20,6 @@ Make an alarm page. One should be able to add, delete, change alarms. Make sure 
 
 <center>
 <img src="https://github.com/alem-01/alem_public/blob/master/resources/clock.01.jpg?raw=true" style = "width: 210px !important; height: 420px !important;"/>
-</center>
 
-## Part 2:
-
-Make a world clock page. The page shoud display time for all the chosen regions, and remember which regions have been chosen, until they are deleted. Make sure to let users add and delete regions.
-
-<center>
 <img src="https://github.com/alem-01/alem_public/blob/master/resources/clock.02.jpg?raw=true" style = "width: 210px !important; height: 420px !important;"/>
 </center>
-
-> Note: It will be easier to implement via API :)
-
-## Part 3:
-
-Implement Stopwatch's functional. You should be able to start, pause, reset, and stop the stopwatch. Display the time in the format of mm:ss:ms (minutes:seconds:milliseconds).
-
-
-<center>
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/clock.03.jpg?raw=true" style = "width: 210px !important; height: 420px !important;"/>
-
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/clock.04.jpg?raw=true" style = "width: 210px !important; height: 420px !important;"/>
-</center>
-
-## Part 4:
-
-Implement Timer's functional. You should be able to choose hours, minutes, second to start the timer, pause, cancel the timer. Display the time in the format of hh:mm:ss (hours:minutes:seconds).
-
-<center>
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/clock.05.jpg?raw=true" style = "width: 210px !important; height: 420px !important;"/>
-</center>
-
-> Bonus: add an ability to change timer sound.
