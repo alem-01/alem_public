@@ -71,18 +71,18 @@ Docs: https://flutter.dev/docs/development/ui/layout
 
 Change the content of lib/main.dart, so your app will look like:
 
-<center>
+<p align="center">
 
 <img src="https://github.com/alem-01/alem_public/blob/master/resources/bizzCard.02.png" alt="drawing" width="210" height = "420"/>
 
 <img src="https://github.com/alem-01/alem_public/blob/master/resources/bizzCard.03.png" alt="drawing" width="210" height = "420"/>
 
+</p>
 </center>
 
-<center>
+<p align="center">
 <img src="https://github.com/alem-01/alem_public/blob/master/resources/bizzCard.04.png" alt="drawing" width="420" height = "210"/>
-
-</center>
+</p>
 
 Page should have:
 
@@ -102,11 +102,10 @@ final String age;
 - Use DecorationImage inside BoxDecoration to style image
 - Use InkWell and SnackBar to show snackbar with `Tapped on ${name}` on click
 
-<center>
-
+<p align="center">
 <img src="https://github.com/alem-01/alem_public/blob/master/resources/bizzCard.05.png" alt="drawing" width="210" height = "420"/>
 
-</center>
+</p>
 
 - Bonus : add a FloatingActionButton to make a call to a given number
 

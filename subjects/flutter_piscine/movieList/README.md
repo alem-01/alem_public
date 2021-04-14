@@ -35,17 +35,17 @@ add fromJson method to make a json serialization, see more on [https://flutter.d
 
 Your ListView should use FutureBuilder to firstly wait for data from json and then show it when it loads.
 
-<center>
+<p align="center">
 <img src="https://github.com/alem-01/alem_public/blob/master/resources/movieList.01.png" alt="drawing" width="210" height = "420"/>
-</center>
+</p>
 
 ## Part 2:
 
 Create a detailed view of a movie:
 
-<center>
+<p align="center">
 <img src="https://github.com/alem-01/alem_public/blob/master/resources/movieList.02.png" alt="drawing" width="210" height = "420"/>
-</center>
+</p>
 
 It should have an image and minimum 5 parameters from the film's info; use scroll bar if the info don't fit in one page;
 
@@ -57,13 +57,14 @@ Visit  [https://flutter.dev/docs/cookbook/navigation/named-routes](https://flutt
 
 Implement Seach
 
-<center>
+
+<p align="center">
 <img src="https://github.com/alem-01/alem_public/blob/master/resources/movieList.03.png" alt="drawing" width="210" height = "420"/>
 
 <img src="https://github.com/alem-01/alem_public/blob/master/resources/movieList.04.png" alt="drawing" width="210" height = "420"/>
 
 <img src="https://github.com/alem-01/alem_public/blob/master/resources/movieList.05.png" alt="drawing" width="210" height = "420"/>
-</center>
+</p>
 
 When click on a search icon in appBar, it must be ability to write a query to search, to achieve that you should use SearchDelegate.
 

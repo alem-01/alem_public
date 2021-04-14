@@ -20,7 +20,9 @@ After the question has been answered, you must let the user understand if the qu
 
 - Add a splash/launch screen as an entry point
 
+<p align="center">
 <img src="https://github.com/alem-01/alem_public/blob/master/resources/quizApp.01.png" alt="drawing" width="210" height = "420"/>
+</p>
 
 ## Second Part:
 
@@ -55,7 +57,12 @@ Note: you can style app as you want
 
 Note: only standard dart package, package:flutter
 
+
+
+<p align="center">
 <img src="https://github.com/alem-01/alem_public/blob/master/resources/quizApp.02.png" alt="drawing" width="210" height = "420"/>
+</p>
+
 
 ## Third Part
 
@@ -67,13 +74,13 @@ Note: only standard dart package, package:flutter
 - When answering question change color of button or background, so the user know that answer is wrong or right
 
 
-<center>
+<p align="left">
 <img src="https://github.com/alem-01/alem_public/blob/master/resources/quizApp.03.png" alt="drawing" width="210" height = "420"/>
 
 <img src="https://github.com/alem-01/alem_public/blob/master/resources/quizApp.04.png" alt="drawing" width="210" height = "420"/>
 
 <img src="https://github.com/alem-01/alem_public/blob/master/resources/quizApp.05.png" alt="drawing" width="210" height = "420"/>
-</center>
+</p>
 
 ## Fourth part
 
@@ -81,8 +88,9 @@ When all question answered show the score on a new page
 
 - It should have Text with score and button which pushes to a list with categories
 
-<center>
+
+<p align="center">
 <img src="https://github.com/alem-01/alem_public/blob/master/resources/quizApp.06.png" alt="drawing" width="210" height = "420"/>
-</center>
+</p>
 
 - Bonus: add timer to question, so user can have fixed time to answer a question
