@@ -55,7 +55,7 @@ Visit  [https://flutter.dev/docs/cookbook/navigation/named-routes](https://flutt
 
 ## Part 3:
 
-Implement Seach
+Implement Search
 
 
 <center>
