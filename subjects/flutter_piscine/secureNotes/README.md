@@ -18,7 +18,9 @@ Make a page for password and sequrity setting, so that each time someone wants t
 
 ## Part 2:
 
-Make a central page where notes are displayed. This page must come after password/biometry authentication. At this point one must have an ability to read, add, delete, change all the notes. Add ability to export individual notes to txt format.
+Make a central page where notes are displayed. This page must come after password/biometry authentication. At this point one must have an ability to read, add, delete, change all the notes. 
+At this point, when you make some changes, you must save notes encrypted so that other apps won't have access to content. Add ability to export individual notes to txt format.
+
 
 <center>
 <img src="https://github.com/alem-01/alem_public/blob/master/resources/secureNotes.02.jpg?raw=true" style = "width: 620px !important; height: 420px !important;"/>
