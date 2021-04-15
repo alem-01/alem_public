@@ -13,7 +13,7 @@ Develop an app for taking secure notes. A note is considered to be secure if the
 Make a page for password and sequrity setting, so that each time someone wants to access the app, one should write a password, or do a biometrical authentication. 
 
 <center>
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/secureNotes.01.jpg?raw=true" style = "width: 420px !important; height: 420px !important;"/>
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/secureNotes.01.jpg?raw=true" style = "width: 520px !important; height: 420px !important;"/>
 </center>
 
 ## Part 2:
@@ -21,7 +21,7 @@ Make a page for password and sequrity setting, so that each time someone wants t
 Make a central page where notes are displayed. This page must come after password/biometry authentication. At this point one must have an ability to read, add, delete, change all the notes. Add ability to export individual notes to txt format.
 
 <center>
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/secureNotes.02.jpg?raw=true" style = "width: 420px !important; height: 420px !important;"/>
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/secureNotes.02.jpg?raw=true" style = "width: 520px !important; height: 420px !important;"/>
 </center>
 
 ## Part 3:
@@ -29,5 +29,5 @@ Make a central page where notes are displayed. This page must come after passwor
 Implement Authentication
 
 <center>
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/secureNotes.03.jpg?raw=true" style = "width: 420px !important; height: 420px !important;"/>
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/secureNotes.03.jpg?raw=true" style = "width: 520px !important; height: 420px !important;"/>
 </center>
