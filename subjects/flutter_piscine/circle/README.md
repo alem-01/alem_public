@@ -26,7 +26,8 @@ void main() {
 }
 ```
 
-### Exercise
+
+### **Exercise**
 
 Make a class named `Circle`.
 

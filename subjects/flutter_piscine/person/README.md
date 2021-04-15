@@ -74,7 +74,7 @@ var p2 = Point(8, 3);
 print(p1.distanceTo(p2));
 ```
 
-### Exercise
+### **Exercise**
 
 Make a class named `Person`.
 

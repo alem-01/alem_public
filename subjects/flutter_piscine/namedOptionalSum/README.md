@@ -29,6 +29,6 @@ As Dart's documentation suggests - "...types in your code are non-nullable by de
 
 What happens if the argument of the function is optional and it is omitted? It should be null, but the Dart's null safety does not allow it, and you will get error from compiler. In order to let Dart's compiler understand that certain variable should be able to accept null, you **must** initialize primitives with question sign. More on null safety [here](https://dart.dev/null-safety).
 
-## Exercise:
+### **Exercise**
 
 Write a function that accepts named parameters "first", "second", "third" and returns the sum of them. All the parameters are integers. Absent parameters are considered as 0. Name of the function - namedOptionalSum.

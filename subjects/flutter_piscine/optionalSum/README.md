@@ -25,6 +25,6 @@ void main() {
 
 > **Note:** you cannot use both optional and named parameters, you should choose **one** of them.
 
-## Exercise
+### **Exercise**
 
 Write a function that accepts two integer arguments, and an optional integer argument. Return the sum of all the arguments. Name of the function - optionalSum.

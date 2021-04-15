@@ -29,7 +29,7 @@ We know that every SmartTelevision is Televisions, therefore we can extend all t
 
 By writing `@override`, we are overriding the behavior of the parent class, so that it meets our needs, and if we wanna call the parent classes' method, we simply put "super." before the name of the method.
 
-### Exercise
+### **Exercise**
 
 Make a class `Student` that extends from class `Person` that you have previously created.
 
