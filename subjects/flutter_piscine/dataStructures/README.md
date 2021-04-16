@@ -51,4 +51,4 @@ Declare and initialize following variables:
 - `setStr` of type `Set<String>` containing at least 3 items;
 - `mapStr` of type `Map<String, int>` containing at least 3 pairs;
 
-> Note: main is not needede!
+> Note: main is not needed!

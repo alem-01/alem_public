@@ -74,6 +74,7 @@ Right close button should clear the search query, back button should close the s
 
 When no text typed, show all the items
 
-Bonus: Application UI
+### **Bonus**
+  Make extra effort on the UI of the App.
 
 [https://flutter.dev/docs/resources/platform-adaptations](https://flutter.dev/docs/resources/platform-adaptations)

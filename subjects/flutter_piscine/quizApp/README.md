@@ -80,7 +80,7 @@ Note: only standard dart package, package:flutter
 <img src="https://github.com/alem-01/alem_public/blob/master/resources/quizApp.04.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
 
 <img src="https://github.com/alem-01/alem_public/blob/master/resources/quizApp.05.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
-</center>
+</p>
 
 ## Fourth part
 
@@ -93,4 +93,5 @@ When all question answered show the score on a new page
 <img src="https://github.com/alem-01/alem_public/blob/master/resources/quizApp.06.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
 </center>
 
-- Bonus: add timer to question, so user can have fixed time to answer a question
+### **Bonus**
+Add timer to question, so user can have fixed time to answer a question

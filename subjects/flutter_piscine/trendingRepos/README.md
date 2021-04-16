@@ -30,5 +30,5 @@ Make the GitHub client;
 
 See [https://firebase.google.com/docs/auth/web/github-auth](https://firebase.google.com/docs/auth/web/github-auth)
 
-Bonus: Application UI
-
+### **Bonus**
+    Make extra effort on the UI of the App.

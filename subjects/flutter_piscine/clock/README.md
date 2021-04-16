@@ -20,6 +20,7 @@ Make an alarm page. One should be able to add, delete, change alarms. Make sure 
 </center>
 
 
-> Bonus: make it possible to choose alarm sound.
+### **Bonus**
+    Make it possible to choose alarm sound.
 
 > Note: make sure to visit this helpful [link.](https://pub.dev/packages/flutter_local_notifications)

@@ -108,6 +108,7 @@ final String age;
 
 </center>
 
-- Bonus : add a FloatingActionButton to make a call to a given number
+### **Bonus**
+   Add a FloatingActionButton to make a call to a given number
 
-Note: you can only import from package:flutter/ and from dart standard packages
+> Note: you can only import from package:flutter/ and from dart standard packages
