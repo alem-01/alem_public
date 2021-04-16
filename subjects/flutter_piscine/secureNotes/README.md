@@ -1,4 +1,4 @@
-### Introduction:
+# Introduction:
 
 Develop an app for taking secure notes. A note is considered to be secure if the content of the note cannot be accessed without password or biometrics verification. You can ensure such security by encrypting content of the notes. Make sure to let user access, add, delete, and change, and export notes.
 
