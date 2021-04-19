@@ -81,6 +81,7 @@ Make a class named `Person`.
 Its attributes:
 
 - name - string
+- surname - string
 - cityOfOrigin - string
 - age - int
 - height - int
@@ -91,5 +92,6 @@ Constructor:
 - cityOfOrigin - required
 - age - required
 - height - required
+- surname - optional
 
 > Note: please see the [documentation](https://dart.dev/guides/language/language-tour#classes) for examples.
