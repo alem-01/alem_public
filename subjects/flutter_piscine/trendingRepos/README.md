@@ -26,6 +26,7 @@ Make the GitHub client;
 - Main screen should display 30 trending repos
 - Add a splash screen with GitHub icon at the center
 - App should have repo.dart model, service class to fetch repos
+- Implement refresh: when user pulls down screen, make api call, so that list of repos will update (https://api.flutter.dev/flutter/material/RefreshIndicator-class.html)
 
 See [https://firebase.google.com/docs/auth/web/github-auth](https://firebase.google.com/docs/auth/web/github-auth)
 
