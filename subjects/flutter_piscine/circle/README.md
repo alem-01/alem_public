@@ -39,6 +39,12 @@ Its fields:
 - getters:
   - area
   - perimeter
+  - rightMostCoordinate (x axis)
+  - leftMostCoordinate (x axis)
+  - highestCoordinate (y axis)
+  - lowestCoordinate (y axis)
+
+
 - Constructor:
   - x - required
   - y - required
