@@ -1,15 +1,14 @@
 ### Introduction:
 
-Develop an app to work with json. You must display top rated movies on the first page. By tapping at a movie, a new route with more detailed information regarding the movie must be displayed. Searching for a movie via search bar must be included. Searching is done by movie name, entered string must be completely within movie name, i.e. if "vatar" is searched, "Avatar" must be included in the response. Not case sensitive. No more than 8 movies should be in each page, therefore you have to make a pagination.
+Develop an app to work with json. You must display top rated movies on the first page. By tapping at a movie, a new route with more detailed information regarding the movie must be displayed. Searching for a movie via search bar must be included. Searching is done by movie name, entered string must be completely within movie name, i.e. if "vatar" is searched, "Avatar" must be included in the response. Not case sensitive.
 
 ## Objective
 
 - **Infinite scroll -** no audit questions, either delete this, or add to audits?
 
-- ListView/GridView
+- ListView
 - Json Serialization
 - Routes/Push
-- Delegates (Search Delegate)
 - AppBar actions
 - Images
 - Futures, async
