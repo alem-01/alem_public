@@ -50,4 +50,4 @@ Its fields:
   - y - required
   - radius - required
 
-> Note: pi equals 3.14
+> Note: pi equals 3.14. Do not use math library.
