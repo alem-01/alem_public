@@ -10,7 +10,6 @@ Make a client for GitHub
 - Work with api (GitHub)
 - Shared Preferences
 - Firebase
-- Singleton()
 
 ## Objective:
 
