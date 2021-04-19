@@ -31,6 +31,7 @@ class Movie {
 ```
 
 add fromJson method to make a json serialization, see more on [https://flutter.dev/docs/development/data-and-backend/json](https://flutter.dev/docs/development/data-and-backend/json)
+https://api.flutter.dev/flutter/foundation/Factory-class.html
 
 Your ListView should use FutureBuilder to firstly wait for data from json and then show it when it loads.
 
