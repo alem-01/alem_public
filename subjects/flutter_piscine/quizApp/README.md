@@ -18,19 +18,10 @@ After the question has been answered, you must let the user understand if the qu
 
 ## First Part:
 
-- Add a splash/launch screen as an entry point
-
-<center>
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/quizApp.01.png?raw=true" style = "width: 105px !important; height: 210px !important;"/>
-</center>
-
-## Second Part:
-
 ### Categories page:
 
 - Grid list view of categories with appropriate images and names. Make at least 5 categories and at least 10 questions to each quiz. Show 2 categories in a row.
 - Your app should have models for Question and Categories:
-- Cache images with cached_network_image package, show loading spinner when image until image not loaded
 
 ```jsx
 //models/Question.dart
@@ -64,7 +55,7 @@ Note: only standard dart package, package:flutter
 </center>
 
 
-## Third Part
+## Second Part
 
 ### Navigation and routing:
 
@@ -82,7 +73,7 @@ Note: only standard dart package, package:flutter
 <img src="https://github.com/alem-01/alem_public/blob/master/resources/quizApp.05.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
 </p>
 
-## Fourth part
+## Third part
 
 When all question answered show the score on a new page
 
