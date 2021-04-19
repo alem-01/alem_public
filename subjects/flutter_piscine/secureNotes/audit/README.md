@@ -1,5 +1,7 @@
 #### Functional
 
+###### Was the app committed within the required time period?
+
 ###### Does the app run without crashes?
 
 ###### Is there a way to add password?

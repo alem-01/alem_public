@@ -1,5 +1,7 @@
 #### Functional
 
+###### Was the app committed within the required time period?
+
 ###### Do you see splash screen when app loads?
 
 ###### Do you see login page when not logged in?

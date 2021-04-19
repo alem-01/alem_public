@@ -1,5 +1,7 @@
 #### Functional
 
+###### Was the app committed within the required time period?
+
 ###### Does the app run without crashes?
 
 ###### Does the app show photo, full name, email address, phone number, telegram or social media account
