@@ -23,7 +23,7 @@ Make the GitHub client;
 - Implement GitHub login using firebase
 - Possibility to logout
 - When user logs out app should open login page
-- Main screen should display 30 trending repos
+- Main screen should display 30 trending repos (use of SilverList recommended https://api.flutter.dev/flutter/widgets/SliverList-class.html)
 - Add a splash screen with GitHub icon at the center
 - App should have repo.dart model, service class to fetch repos
 - Implement refresh: when user pulls down screen, make api call, so that list of repos will update (https://api.flutter.dev/flutter/material/RefreshIndicator-class.html)
