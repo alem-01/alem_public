@@ -29,6 +29,8 @@ Make the GitHub client;
 - Implement refresh: when user pulls down screen, make api call, so that list of repos will update (https://api.flutter.dev/flutter/material/RefreshIndicator-class.html)
 
 See [https://firebase.google.com/docs/auth/web/github-auth](https://firebase.google.com/docs/auth/web/github-auth)
+https://api.github.com/search/repositories
+https://docs.github.com/en/rest
 
 ### **Bonus**
     Make extra effort on the UI of the App.
