@@ -21,7 +21,7 @@ After the question has been answered, you must let the user understand if the qu
 - Add a splash/launch screen as an entry point
 
 <center>
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/quizApp.01.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/quizApp.01.png?raw=true" style = "width: 105px !important; height: 210px !important;"/>
 </center>
 
 ## Second Part:
