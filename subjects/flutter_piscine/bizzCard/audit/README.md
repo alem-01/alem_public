@@ -4,11 +4,13 @@
 
 ###### Does the app run without crashes?
 
+###### Are imported packages either package:flutter/ or dart standard packages?
+
 ###### Does the app show photo, full name, email address, phone number, telegram or social media account
 
 ###### Does the app uses local asset image?
 
-###### Does the app uses User model?
+###### Does the app use User model?
 
 ###### Does the snackbar appear when card tapped?
 

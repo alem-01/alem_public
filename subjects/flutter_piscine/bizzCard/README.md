@@ -85,7 +85,7 @@ Change the content of lib/main.dart, so your app will look like:
 <img src="https://github.com/alem-01/alem_public/blob/master/resources/bizzCard.04.png?raw=true" style = "width: 420px !important; height: 210px !important;"/>
 </center>
 
-Page should have:
+Page **must** have:
 
 - User.dart file for User model with parameters:
 
