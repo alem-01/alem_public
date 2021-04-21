@@ -18,6 +18,7 @@ class Rectangle {
   set right(double value) => this.left = value - this.width;
   double get bottom => this.top - this.height;
   set bottom(double value) => this.top = value + this.height;
+  // pi = 3.14
 }
 
 void main() {
@@ -50,4 +51,4 @@ Its fields:
   - y - required
   - radius - required
 
-> Note: pi equals 3.14. Do not use math library.
+> Note: Do not use math library.
