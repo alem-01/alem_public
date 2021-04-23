@@ -31,7 +31,8 @@ Make the GitHub client;
 See :  
 [https://firebase.google.com/docs/auth/web/github-auth](https://firebase.google.com/docs/auth/web/github-auth)  
 https://api.github.com/search/repositories  
-https://docs.github.com/en/rest  
+https://docs.github.com/en/rest
+https://flutter.dev/docs/development/data-and-backend/state-mgmt/simple#changenotifier
 
 ### **Bonus**
     Make extra effort on the UI of the App.
