@@ -24,7 +24,7 @@ This subject is divided into 3 parts. Overall **objective** is:
 - Basic structure of a Flutter app.
 - How to run Flutter app on physical device or android/ios emulator.
 
-Note: only standard Flutter packages and url_launcher are allowed
+Note: only standard Flutter packages and url_launcher(for bonus) are allowed
 
 ## First Part
 
