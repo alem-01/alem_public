@@ -2,7 +2,7 @@
 
 ### Object Oriented Programming
 
-Dart supports object oriented programming on which Flutter framework relies. Instead of working only with functions in OOP you work with classes, each of which has 2 concepts: attributed and method. Attributes are needed to store various data in the instance of Class and methods are functions, which can use Class attributes for various manipulations. To understand OOP and its difference from functional programming visit this website.
+Dart supports object oriented programming on which Flutter framework relies. Instead of working only with functions in OOP you work with classes, each of which has 2 concepts: attribute and method. Attributes are needed to store various data in the instance of Class and methods are functions, which can use Class attributes for various manipulations. To understand OOP and its difference from functional programming visit [this website](https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260/).
 
 Here is an example of the Class in Dart:
 
@@ -43,6 +43,7 @@ class Point {
 Now let's instantiate two objects of class Point:
 
 ```dart
+
 var p1 = Point(5, 4);
 var p2 = Point(8, 3);
 ```
@@ -50,13 +51,14 @@ var p2 = Point(8, 3);
 What if we would like to know what is the distance between these 2 points? We can do that by declaring a class function (or method of the class) and passing one of the objects as a parameter:
 
 ```dart
+
 import 'dart:math';
 
 class Point {
   double x = 0; // field
   double y = 0; // field
-	// constructor
-  Point(double x, double y) {
+   
+	Point(double x, double y) { // constructor
     this.x = x; // initializing field
     this.y = y; // initializing field
   }
@@ -68,6 +70,7 @@ class Point {
 ```
 
 ```dart
+
 var p1 = Point(5, 4);
 var p2 = Point(8, 3);
 
