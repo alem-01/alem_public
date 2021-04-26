@@ -13,6 +13,8 @@ Bear in mind that on a class level there is no Encapsulation in Dart. According 
 >
 > -- <cite>Source: https://dart.dev/guides/language/language-tour#libraries-and-visibility</cite>
 
+Still, even on a class level it is a good practice to declare private values and not to use values that are intended to be private.
+
 ```dart
 
 class Person {
