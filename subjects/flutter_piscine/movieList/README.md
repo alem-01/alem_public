@@ -1,11 +1,10 @@
 ### Introduction:
 
-Develop an app to work with json. You must display top rated movies on the first page. By tapping at a movie, a new route with more detailed information regarding the movie must be displayed. Searching for a movie via search bar must be included. Searching is done by movie name, entered string must be completely within movie name, i.e. if "vatar" is searched, "Avatar" must be included in the response. Not case sensitive.
+Develop an app to work with JSON. You must display top rated movies on the first page. By tapping at a movie, a new route with more detailed information regarding the movie must be displayed. Searching for a movie via search bar must be included. Searching is done by movie name, entered string must be completely within movie name, i.e. if "vatar" is searched, "Avatar" must be included in the response. Not case sensitive.
 
 ## Objective
 
-- **Infinite scroll -** no audit questions, either delete this, or add to audits?
-
+- Infinite scroll
 - ListView
 - Json Serialization
 - Routes/Push
@@ -15,11 +14,11 @@ Develop an app to work with json. You must display top rated movies on the first
 
 ## Part 1
 
-Create ListView which will show the Image, title and description from Json file;
+Create a ListView which will show the image, title and description from JSON file;
 
 Create a class with properties:
 
-```jsx
+```
 class Movie {
   final String genre;
   final String imdbRating;

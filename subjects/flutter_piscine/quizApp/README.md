@@ -44,9 +44,9 @@ class Category {
 }
 ```
 
-Note: you can style app as you want
+Note: you can style the app as you want
 
-Note: only standard dart package, package:flutter
+Note: only standard Dart package, package:flutter
 
 
 
@@ -59,8 +59,8 @@ Note: only standard dart package, package:flutter
 
 ### Navigation and routing:
 
-- When tapping on category push screen to DetailedView which shows appropriate image, question and true/false buttons
-- Use imperative way of navigating through app
+- When tapping on category push screen to DetailedView, which shows appropriate image, question and true/false buttons
+- Use imperative way of navigating through the app
 - Create a stateful widget, so you can change page's state [https://flutter.dev/docs/development/ui/interactive](https://flutter.dev/docs/development/ui/interactive)
 - When answering question change color of button or background, so the user know that answer is wrong or right
 
@@ -75,9 +75,9 @@ Note: only standard dart package, package:flutter
 
 ## Third part
 
-When all question answered show the score on a new page
+When all question are answered show the score on a new page
 
-- It should have Text with score and button which pushes to a list with categories
+- It should have Text with score and button which returns user to the main page
 
 
 <center>
@@ -85,4 +85,4 @@ When all question answered show the score on a new page
 </center>
 
 ### **Bonus**
-Add timer to question, so user can have fixed time to answer a question
+Add a timer to each question, so the user must answer a question in a fixed time
