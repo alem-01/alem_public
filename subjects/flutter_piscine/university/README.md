@@ -4,8 +4,7 @@
 
 Sometimes we need to limit access to class attributes so that it can be accessed only from the class itself. This concept is called **Encapsulation.**
 
-Sometimes we want other objects not to have access to certain fields or methods of our objects. We can restrict their access, allowing only to ourselves to have a direct control over those fields/methods, they are usually called _private_ fields/methods. This concept is usually referred to as **Encapsulation.**
-
+In Dart you can make attribute private (meaning that it can be changed or used only in the instances of this class) by putting underscore (_) in the beginning of field's or method's name.
 
 
 ```dart
