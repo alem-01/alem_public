@@ -73,6 +73,10 @@ Right close button should clear the search query, back button should close the s
 
 When no text typed, show all the items
 
+### **Assets**
+  [movies.json](https://github.com/alem-01/alem_public/blob/master/subjects/flutter_piscine/movieList/movies.json)
+
+
 ### **Bonus**
   Make extra effort on the UI of the App.
 
