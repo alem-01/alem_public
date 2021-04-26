@@ -1,6 +1,7 @@
 ## Introduction
 
-Make a client for GitHub
+Create an app, which shows list of trending repositories on github. You shuld use firebase to implement a login redirect.
+Also see https://flutter.dev/docs/development/data-and-backend/state-mgmt/simple#changenotifier for more info on state management.
 
 - Json serialization
 - List Tile, Infinite scroll (ListViewBuilder)
@@ -32,6 +33,7 @@ See :
 [https://firebase.google.com/docs/auth/web/github-auth](https://firebase.google.com/docs/auth/web/github-auth)  
 https://api.github.com/search/repositories  
 https://docs.github.com/en/rest  
+
 
 ### **Bonus**
     Make extra effort on the UI of the App.

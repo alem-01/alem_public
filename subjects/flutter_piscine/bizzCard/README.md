@@ -1,18 +1,18 @@
 ## Introduction
 
-### What is flutter?
+### What is Flutter?
 
 Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase. (c) [https://flutter.dev/](https://flutter.dev/)
 
 ### How to start?
 
-You can build flutter apps using any text editor. It is recommended to use editors that have both dart and flutter plugins(Android Studio, IntelliJ, VS Code, or Emacs).
+You can build Flutter apps using any text editor. It is recommended to use editors that have both dart and Flutter plugins(Android Studio, IntelliJ, VS Code, or Emacs).
 
 You already have all installed on school computer, but if you want to set up your pc, then follow the official [installation guide](https://flutter.dev/docs/get-started/install).
 
-Before we start take a look at flutter's [official documentation](https://flutter.dev/docs)
+Before we start take a look at Flutter's [official documentation](https://flutter.dev/docs)
 
-Hint: You can see some flutter samples [here](https://flutter.github.io/samples/#?type=cookbook) 👩🏽‍🍳
+Hint: You can see some Flutter samples [here](https://flutter.github.io/samples/#?type=cookbook) 👩🏽‍🍳
 
 ## Making your first app
 
@@ -22,18 +22,18 @@ This subject is divided into 3 parts. Overall **objective** is:
 
 - Learn about and apply the essence of Flutter - widgets.
 - Basic structure of a Flutter app.
-- How to run flutter app on physical device or android/ios emulator.
+- How to run Flutter app on physical device or android/ios emulator.
 
-Note: only standard flutter packages and url_launcher are allowed
+Note: only standard Flutter packages and url_launcher(for bonus) are allowed
 
 ## First Part
 
 In this part:
 
-- Run flutter generated counter app
-- Understand structure of the flutter app
+- Run Flutter generated counter app
+- Understand structure of the Flutter app
 
-To create first flutter application open Android Studio and follow the steps:
+To create first Flutter application open Android Studio and follow the steps:
 
 1. Open the IDE and select **Start a new Flutter project**.
 2. Select **Flutter Application** as the project type. Then click **Next**.
@@ -45,7 +45,7 @@ To create first flutter application open Android Studio and follow the steps:
 
 See the Run the app section in [https://flutter.dev/docs/get-started/test-drive?tab=androidstudio#create-app](https://flutter.dev/docs/get-started/test-drive?tab=androidstudio#create-app) to run sample app.
 
-The starter point in flutter app is in lib/main.dart. Change this file to change app's behavior.
+The starter point in Flutter app is in lib/main.dart. Change this file to change app's behavior.
 
 ## Second Part:
 
