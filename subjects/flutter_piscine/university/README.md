@@ -9,6 +9,7 @@ Sometimes we want other objects not to have access to certain fields or methods 
 
 
 ```dart
+
 class Person {
   bool _hunger = true;
 
