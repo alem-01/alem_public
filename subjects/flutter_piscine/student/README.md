@@ -31,7 +31,7 @@ By writing `@override`, we are overriding the behavior of the parent class, so t
 
 ### **Exercise**
 
-Make a class `Student` that extends from class `Person` that you have previously created.
+Make a class `Student` that extends class `Person` that you have previously created.
 
 Its fields:
 
