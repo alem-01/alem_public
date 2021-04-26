@@ -21,6 +21,8 @@ class Rectangle {
   set left(double value) {
     if (value >= 0) {
       this.left = value;
+    } else {
+      throw new FormatException(); 
     }
   }
 
