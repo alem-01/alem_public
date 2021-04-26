@@ -10,19 +10,19 @@
 
 ###### Is the new route created when the movie icon is tapped?
     
-###### Does the route with detailed movie information contain information that was not introduced on the first route?
+###### Does the movie profile page display at least 5 parameters?
     
 ###### Does the search bar look for the movies by title?
 
-###### Does the app behave as it is supposed to?
-
-###### Does user see filtered result when start typing
+###### Does the user see filtered result when he or she starts typing the search query?
     
-###### Right close button should clear the search query, back button should close the searchbar?
+###### Does the close button (X mark) clear the search query? Does the back button close the searchbar?
 
-###### When no text typed, does the app show all the items
+###### When no search query is supplied, does the app show all the items?
 
 ###### No widgets are overflowed
+
+###### Does the app behave as it is supposed to?
 
 #### Bonus:
 

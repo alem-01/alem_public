@@ -14,7 +14,7 @@ Develop an app to work with JSON. You must display top rated movies on the first
 
 ## Part 1
 
-Create a ListView which will show the image, title and description from JSON file;
+Create a ListView which will show the image, title and description from JSON file (see Assets section);
 
 Create a class with properties:
 
@@ -32,7 +32,7 @@ class Movie {
 add fromJson method to make a json serialization, see more on [https://flutter.dev/docs/development/data-and-backend/json](https://flutter.dev/docs/development/data-and-backend/json)
 https://api.flutter.dev/flutter/foundation/Factory-class.html
 
-Your ListView should use FutureBuilder to firstly wait for data from json and then show it when it loads.
+Your ListView should use FutureBuilder to wait for data from JSON file and then show it once it is loaded.
 
 <center>
 <img src="https://github.com/alem-01/alem_public/blob/master/resources/movieList.01.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
@@ -40,15 +40,15 @@ Your ListView should use FutureBuilder to firstly wait for data from json and th
 
 ## Part 2:
 
-Create a detailed view of a movie:
+Create a page with detailed info of a movie:
 
 <center>
 <img src="https://github.com/alem-01/alem_public/blob/master/resources/movieList.02.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
 </center>
 
-It should have an image and minimum 5 parameters from the film's info; use scroll bar if the info don't fit in one page;
+It should have an image and minimum 5 parameters from the film's info; use scroll bar if the info doesn't fit in one page;
 
-The appbar should have a name of the film and button to go back
+The appbar should have a name of the film and go back button.
 
 Visit  [https://flutter.dev/docs/cookbook/navigation/named-routes](https://flutter.dev/docs/cookbook/navigation/named-routes) to see how to implement routing.
 
@@ -65,13 +65,13 @@ Implement Search
 <img src="https://github.com/alem-01/alem_public/blob/master/resources/movieList.05.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
 </center>
 
-When click on a search icon in appBar, it must be ability to write a query to search, to achieve that you should use SearchDelegate.
+On a click on a search icon in the appBar user can search for the particular movie. To implement this feature you need to use SearchDelegate. 
 
-When start typing, user should see filtered result
+When user starts typing in the search field, list should be instantly filtered according to the query.
 
-Right close button should clear the search query, back button should close the searchbar
+Close button (X mark) should clear the search query. Back button should close the searchbar.
 
-When no text typed, show all the items
+When search bar has no text, show all the items.
 
 ### **Assets**
   [movies.json](https://github.com/alem-01/alem_public/blob/master/subjects/flutter_piscine/movieList/movies.json)
