@@ -7,6 +7,12 @@ Sometimes we need to limit access to class attributes so that it can be accessed
 In Dart you can make attribute private (meaning that it can be changed or used only in the instances of this class) by putting underscore (_) in the beginning of field's or method's name.
 
 
+Bear in mind that on a class level there is no Encapsulation in Dart. According to Dart's documentation:
+
+> The import and library directives can help you create a modular and shareable code base. Libraries not only provide APIs, but are a unit of privacy: identifiers that start with an underscore (_) are visible only inside the library. Every Dart app is a library, even if it doesn’t use a library directive.
+>
+> -- <cite>Source: https://dart.dev/guides/language/language-tour#libraries-and-visibility</cite>
+
 ```dart
 
 class Person {
@@ -18,9 +24,6 @@ class Person {
 
 }
 ```
-
-
-Syntax of Dart's encapsulation is quite easy, all you must do is put underscore before the field or method's initialization.
 
 ### **Exercise**
 
