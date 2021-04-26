@@ -2,9 +2,11 @@
 
 ### Getters and setters
 
-To work with objects' fields, either getting some information, or changing it, we have to use methods, as it might not be a good idea to directly change object's fields, same example with hunger, you should not change person's hunger level, but feed them instead. Since it is common to set or get fields' values, it is common to put getters and setters in the OOP.
+To work with objects' fields, either getting some information, or changing it, we have to use methods, as it might not be a good idea to directly change object's fields. 
 
-In dart, when interacting with getters and setters you must treat them as **fields**.
+An example of this principle is hunger - you should not change person's hunger level, but feed them instead. Since it is common to set or get fields' values, it is common to put getters and setters in the OOP.
+
+In Dart, when specify getters and setters, you must treat them as **fields**.
 
 Syntax of the getters and setters:
 
@@ -15,15 +17,21 @@ class Rectangle {
   Rectangle(this.left, this.top, this.width, this.height);
 
   double get right => this.left + this.width;
-  set right(double value) => this.left = value - this.width;
+  
+  set left(double value) {
+    if (value >= 0) {
+      this.left = value;
+    }
+  }
+
   double get bottom => this.top - this.height;
-  set bottom(double value) => this.top = value + this.height;
+  
   // pi = 3.14
 }
 
 void main() {
   var rect = Rectangle(3, 4, 20, 15);
-  rect.right = 12;
+  rect.left = 12;
 }
 ```
 
