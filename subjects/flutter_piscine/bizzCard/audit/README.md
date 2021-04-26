@@ -22,4 +22,4 @@
 
 ###### Does the app have call button?
 
-###### Can you make a all to a number when button pressed?
+###### Can you make a call to a number when button pressed?

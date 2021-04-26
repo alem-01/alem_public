@@ -90,6 +90,7 @@ Page **must** have:
 - User.dart file for User model with parameters:
 
 ```
+
 final String fullName;
 final String phone;
 final String mail;
