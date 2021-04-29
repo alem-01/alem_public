@@ -22,8 +22,8 @@
 
 #### Bonus:
 
-###### Are there images for all the questions?
+###### +Are there images for all the questions?
 
-###### Are there any animations?
+###### +Are there any animations?
 
-###### Do you like the UI of the app?
+###### +Do you like the UI of the app?
