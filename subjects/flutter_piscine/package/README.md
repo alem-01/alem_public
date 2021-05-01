@@ -10,11 +10,11 @@ The lib directory contains the public code of the package, at least one .dart fi
 ### Instructions:
 
 Create a Flutter package for your Secure Notes app. You should write 
-your own package which will work with sqflite and have a CRUD 
+your own package which will work with sqflite and have CRUD 
 functionality.
 Your package should consist of Database.dart class and Note class which 
 will allow easy access to SQLite database.
-And at the end you will be able to import it like:
+In the end you should be able to import it like:
 
 ```
 import 'package:note/note.dart';
@@ -25,7 +25,7 @@ import 'package:note/note.dart';
 
 - Dealing with existing, large apps
 - Reusing packages across multiple apps
-- Local vs remove (git) packages
+- Local vs remote (git) packages
 
 ### Database.dart
 
@@ -43,15 +43,13 @@ Database _db;
 
 ```
 
-Example of Database class, there you should add a functionality to to create table "Note" with 4 parameters :
-
+Example of Database class, where you should create table "Note" with 4 parameters :
 - id
 - title
 - body
 - date
 
 Database class should also have CRUD methods like getAllNotes, deleteAllNotes, addNote, deleteNote, updateNote.
-
 - getAllNotes()
 - deleteAllNotes()
 - addNote(note: Note)
@@ -60,7 +58,7 @@ Database class should also have CRUD methods like getAllNotes, deleteAllNotes, a
 
 ### Note.dart
 
-Note Model will be a model class for our Note object.
+Model class for Note object.
 
 ```
 class Note {
