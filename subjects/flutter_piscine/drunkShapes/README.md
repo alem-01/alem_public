@@ -10,8 +10,6 @@ Develop an app with artificial gravity. When you tap on the screen, red Circle o
 
 ## Part 1:
 
-Make a page for password and security setting. User must set the password once, and have an ability to change it later on.
-
 <center>
 <img src="https://github.com/alem-01/alem_public/blob/master/resources/secureNotes.01.jpg?raw=true" style = "width: 620px !important; height: 420px !important;"/>
 </center>
