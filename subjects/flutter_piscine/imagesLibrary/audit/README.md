@@ -1,18 +1,18 @@
 #### Functional
 
-###### Does the app show appropriate text when no images loaded
+###### Does the app show appropriate text when no images are loaded
 
-###### Does it have button in the app bar
+###### Does it have a button in the app bar
 
-###### Does the bottom modal with 2 options shown when pressed on button
+###### Does the bottom modal with 2 options is shown when user presses the button
 
-###### Does the camera work both on ios and android
+###### Does the camera work both in iOS and Android
 
 ###### Does the app load chosen image
 
-###### Does it opens image when tap on image in gallery
+###### Does it opens image when user taps on image in gallery
 
-###### Can you zoom in, zoom out image?
+###### Can you zoom in, zoom out the image?
 
 #### Bonus:
 
