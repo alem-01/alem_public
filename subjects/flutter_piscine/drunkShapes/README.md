@@ -1,6 +1,8 @@
 # Introduction:
 
-Develop an app with artificial gravity. When you tap on the screen, red Circle of radius 100px must appear and it must be affected by gravity. If your phone is at vertical position, it falls down, if it is in the horizontal position it should move sideways, meaning all the time your shapes must move towards earth. Handle the collision of the circles so that they do not fall one in another, i.e. they must collide. All the objects must not leave the borders of your phone, or any other device.
+Develop an app that simulates gravity. Each time you tap on the screen, red Circle of radius 100px must appear and it must be affected by gravity. 
+
+Your shapes must move towards the Earth. Handle the collision of the circles so that they do not fall one in another, i.e. they must collide. All the objects must stay inside the borders of your phone, or any other device.
 
 ## Objective
 
@@ -20,4 +22,4 @@ Develop an app with artificial gravity. When you tap on the screen, red Circle o
 </center>
 
 
-> Bonus: Add an ability to drag individual circle around the screen. When the circle is let go, it should behave as usual circle. Think of ways to handle collisions when the circle is dragged on to another circle.
+> Bonus: Add an ability to drag individual circle around the screen. When the circle is let go, it should behave as usual circle. Think of the ways to handle collisions when the circle is dragged on to another circle.
