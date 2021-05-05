@@ -1,24 +1,23 @@
 #### Functional
 
-###### Was the app committed within the required time period?
+###### Does the app run without any crashes?
 
-###### Does the app run without crashes?
+###### Can you add a new note?
 
-###### Is there a way to add password?
+###### Can you delete note?
 
-###### Does password/biometrics authentification work properly?
+###### Can you delete all notes?
 
-###### Can you create new notes?
+###### Can you edit note?
 
-###### Can you see all the previously created notes?
+###### Can you pick a time?
 
-###### Can you alter notes?
+###### Does the note saved after editing?
 
-###### Can you delete notes?
+###### Does the app shows when fields are empty?
 
-###### Other apps should not have access to the notes, does the app provide such security?
+###### Does the main screen shows list tile with title, description and date?
 
-#### Bonus:
+###### Do you see all notes after closing and opening app back?
 
-###### +Do you like the UI of the app?
-
+###### Does all CRUD methods are implemented on database class and works properly?
