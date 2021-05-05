@@ -11,11 +11,12 @@ Develop an app with artificial gravity. When you tap on the screen, red Circle o
 ## Part 1:
 
 <center>
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/secureNotes.01.jpg?raw=true" style = "width: 620px !important; height: 420px !important;"/>
-</center>
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/drunkShapes.01.jpg?raw=true" style = "width: 420px !important; height: 210px !important;"/>
 
-<center>
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/secureNotes.02.jpg?raw=true" style = "width: 620px !important; height: 420px !important;"/>
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/drunkShapes.02.jpg?raw=true" style = "width: 420px !important; height: 210px !important;"/>
+
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/drunkShapes.03.jpg?raw=true" style = "width: 420px !important; height: 210px !important;"/>
+
 </center>
 
 

@@ -12,6 +12,8 @@
 
 ###### Does tapping create new circles?
 
+###### Check borders of the device, is it not hard coded?
+
 ###### Try tapping on the other circle. Nothing should happen, does it?
 
 #### Bonus:
