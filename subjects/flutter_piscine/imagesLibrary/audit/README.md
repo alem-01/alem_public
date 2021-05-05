@@ -8,6 +8,8 @@
 
 ###### Does the camera work both in iOS and Android
 
+###### Are there both Android and iOS themes?
+
 ###### Does the app load chosen image
 
 ###### Does it opens image when user taps on image in gallery

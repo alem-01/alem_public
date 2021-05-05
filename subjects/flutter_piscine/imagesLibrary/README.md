@@ -8,14 +8,15 @@ package allowed: image_picker
 - When click on a button you should see 2 options: open camera or a gallery
 - See the usage of  image_picker package [https://pub.dev/packages/image_picker](https://pub.dev/packages/image_picker)
 - Don't forget to add special keys to Info.plist file under ios folder to access the camera and gallery, see : [https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/AboutInformationPropertyListFiles.html](https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/AboutInformationPropertyListFiles.html)
+- Make both [Android](https://developer.android.com/reference/androidx/constraintlayout/widget/Guideline) and [iOS](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/) themes
 - Show some text when no image is chosen
 
 <center>
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/imageLibrary.01.png?raw=true" style = "width: 620px !important; height: 420px !important;"/>
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/imageLibrary.01.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
 
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/imageLibrary.02.png?raw=true" style = "width: 620px !important; height: 420px !important;"/>
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/imageLibrary.02.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
 
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/imageLibrary.03.png?raw=true" style = "width: 620px !important; height: 420px !important;"/>
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/imageLibrary.03.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
 </center>
 
 ## Second Part:
@@ -27,9 +28,9 @@ package allowed: image_picker
 Bonus: UI of the app
 
 <center>
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/imageLibrary.04.png?raw=true" style = "width: 620px !important; height: 420px !important;"/>
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/imageLibrary.04.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
 
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/imageLibrary.05.png?raw=true" style = "width: 620px !important; height: 420px !important;"/>
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/imageLibrary.05.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
 
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/imageLibrary.06.png?raw=true" style = "width: 620px !important; height: 420px !important;"/>
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/imageLibrary.06.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
 </center>
