@@ -36,11 +36,10 @@ class Question {
 
 class Category {
   String name;
-  Color color;
   String imageUrl;
   List<Question> questions;
 
-  Category(this.name, this.color, this.imageUrl, this.questions);
+  Category(this.name, this.imageUrl, this.questions);
 }
 ```
 
