@@ -23,10 +23,7 @@ Your shapes must move towards the Earth. Handle the collision of the circles so 
 
 </center>
 
-
-[https://user-images.githubusercontent.com/35443199/118114068-ea629780-b408-11eb-959e-1c742b99c75e.mp4] (Small video presentation)
-
-
+[Small video presentation](https://user-images.githubusercontent.com/35443199/118114068-ea629780-b408-11eb-959e-1c742b99c75e.mp4)
 
 
 
