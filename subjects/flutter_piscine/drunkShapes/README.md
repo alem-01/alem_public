@@ -24,4 +24,9 @@ Your shapes must move towards the Earth. Handle the collision of the circles so 
 </center>
 
 
+
+https://user-images.githubusercontent.com/35443199/118114068-ea629780-b408-11eb-959e-1c742b99c75e.mp4
+
+
+
 > Bonus: Add an ability to drag individual circle around the screen. When the circle is let go, it should behave as usual circle. Think of the ways to handle collisions when the circle is dragged on to another circle.
