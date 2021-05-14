@@ -56,7 +56,7 @@ In this part:
 Change the content of lib/main.dart, so your app will look like:
 
 <center>
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/bizzCard.01.png" alt="drawing" style="width:210px height:420px !important"/>
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/bizzCard.01.png" alt="drawing" width="210" height = "420"/>
 </center>
 
 ## Third Part
@@ -73,15 +73,15 @@ Change the content of lib/main.dart, so your app will look like:
 
 <center>
 
-<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/df6b0ee7-0661-45dc-8473-58e242bbd348/Screenshot_1616759147.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210412%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210412T125612Z&X-Amz-Expires=86400&X-Amz-Signature=0bd3f8b1cab73dba2718231c28877764c4e33e07f96456bec6fa8bfde66cda87&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Screenshot_1616759147.png%22" alt="drawing" style="width:200px !important"/>
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/bizzCard.02.png" alt="drawing" width="210" height = "420"/>
 
-<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f7364c96-eb2b-4e4b-bfcb-e08411a77a3b/Screenshot_1616761636.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210412%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210412T125615Z&X-Amz-Expires=86400&X-Amz-Signature=03073cab809c88348dbbfd0350c2befd47d9ebd73622a37acc080d2ea882804c&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Screenshot_1616761636.png%22" alt="drawing" style="width:200px !important"/>
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/bizzCard.03.png" alt="drawing" width="210" height = "420"/>
 
 </center>
 
 <center>
 
-<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/55962bd3-8dda-4de1-9e51-f5098a599b68/Screenshot_1616764154.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210412%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210412T125626Z&X-Amz-Expires=86400&X-Amz-Signature=0a603f970af807bfc2a7cd9dcae2615a4d5b8eedbcb512cf33ae6c6fb0d8f98c&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Screenshot_1616764154.png%22" alt="drawing"/>
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/bizzCard.04.png" alt="drawing" width="210" height = "420"/>
 
 </center>
 
@@ -105,7 +105,7 @@ final String age;
 
 <center>
 
-<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/213e8521-d435-4dd5-bf99-c3c6a9831f3b/Screenshot_1616762553.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210412%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210412T125658Z&X-Amz-Expires=86400&X-Amz-Signature=c67e0f88bc60f1fdd61d27e1d789b865e52d6450d02fa0e1455963f599d2b43c&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Screenshot_1616762553.png%22" alt="drawing" style="width:200px !important"/>
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/bizzCard.05.png" alt="drawing" width="210" height = "420"/>
 
 </center>
 

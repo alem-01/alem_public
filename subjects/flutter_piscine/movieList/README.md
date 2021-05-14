@@ -36,7 +36,7 @@ add fromJson method to make a json serialization, see more on [https://flutter.d
 Your ListView should use FutureBuilder to firstly wait for data from json and then show it when it loads.
 
 <center>
-<img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/59bfc0fd-317c-4aeb-991e-5a8160ddcd68/Screenshot_1617635464.png" alt="drawing" style="width:200px !important"/>
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/movieList.01.png" alt="drawing" width="210" height = "420"/>
 </center>
 
 ## Part 2:
@@ -44,7 +44,7 @@ Your ListView should use FutureBuilder to firstly wait for data from json and th
 Create a detailed view of a movie:
 
 <center>
-<img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0c278b75-4bae-475e-a7f6-2a8985eeb9c0/Screenshot_1617635515.png" alt="drawing" style="width:200px !important"/>
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/movieList.02.png" alt="drawing" width="210" height = "420"/>
 </center>
 
 It should have an image and minimum 5 parameters from the film's info; use scroll bar if the info don't fit in one page;
@@ -58,11 +58,11 @@ Visit  [https://flutter.dev/docs/cookbook/navigation/named-routes](https://flutt
 Implement Seach
 
 <center>
-<img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/30afb0e8-d1b8-4a85-8e0d-907c21adf81a/Screenshot_1617635464.png" alt="drawing" style="width:200px !important"/>
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/movieList.03.png" alt="drawing" width="210" height = "420"/>
 
-<img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/efbc653e-28b1-40f8-b7f9-d28294150e5e/Screenshot_1617635828.png"/>
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/movieList.04.png" alt="drawing" width="210" height = "420"/>
 
-<img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fcef2ae9-fd5d-485e-b778-a3632a5a4597/Screenshot_1617635814.png"/>
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/movieList.05.png" alt="drawing" width="210" height = "420"/>
 </center>
 
 When click on a search icon in appBar, it must be ability to write a query to search, to achieve that you should use SearchDelegate.

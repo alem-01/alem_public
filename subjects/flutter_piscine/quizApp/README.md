@@ -20,9 +20,7 @@ After the question has been answered, you must let the user understand if the qu
 
 - Add a splash/launch screen as an entry point
 
-<center>
-<img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2ad4f11d-eab2-40fd-94af-1ecd02ccd830/Screenshot_1617091285.png" alt="drawing" style="width:200px !important"/>
-</center>
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/quizApp.01.png" alt="drawing" width="210" height = "420"/>
 
 ## Second Part:
 
@@ -57,9 +55,7 @@ Note: you can style app as you want
 
 Note: only standard dart package, package:flutter
 
-<center>
-<img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/681edf00-e815-424b-a4ba-fdae9b59db54/Screenshot_1616930628.png" alt="drawing" style="width:200px !important"/>
-</center>
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/quizApp.02.png" alt="drawing" width="210" height = "420"/>
 
 ## Third Part
 
@@ -72,11 +68,11 @@ Note: only standard dart package, package:flutter
 
 
 <center>
-<img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/de671ce2-26eb-4d6f-9380-52ab2963f581/Screenshot_1617022125.png" alt="drawing" style="width:200px !important"/>
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/quizApp.03.png" alt="drawing" width="210" height = "420"/>
 
-<img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5167a76c-c306-45c1-9768-b5ca50cffc60/Screenshot_1617022172.png" alt="drawing" style="width:200px !important"/>
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/quizApp.04.png" alt="drawing" width="210" height = "420"/>
 
-<img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/078d2983-813e-430f-bf74-7acf85aee7fb/Screenshot_1617022361.png" alt="drawing" style="width:200px !important"/>
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/quizApp.05.png" alt="drawing" width="210" height = "420"/>
 </center>
 
 ## Fourth part
@@ -86,7 +82,7 @@ When all question answered show the score on a new page
 - It should have Text with score and button which pushes to a list with categories
 
 <center>
-<img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e8a8f44e-d04f-4360-9b09-f940248d477c/Screenshot_1617022182.png" alt="drawing" style="width:200px !important"/>
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/quizApp.06.png" alt="drawing" width="210" height = "420"/>
 </center>
 
 - Bonus: add timer to question, so user can have fixed time to answer a question
