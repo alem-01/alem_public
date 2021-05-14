@@ -56,7 +56,7 @@ In this part:
 Change the content of lib/main.dart, so your app will look like:
 
 <center>
-<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/fc37120a-97bf-47db-a8f1-01520bef9401/Screenshot_1616695885.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210412%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210412T125545Z&X-Amz-Expires=86400&X-Amz-Signature=edcaab72791a5d66e206a80fe3735cd37f5412d509d0aba2f7c5a9f0650a652a&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Screenshot_1616695885.png%22" alt="drawing" style="width:200px !important"/>
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/bizzCard.01.png" alt="drawing" style="width:200px !important"/>
 </center>
 
 ## Third Part
