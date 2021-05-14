@@ -62,7 +62,7 @@ Implement Seach
 
 <img src="https://github.com/alem-01/alem_public/blob/master/resources/movieList.04.png" alt="drawing" width="210" height = "420"/>
 
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/movieList.05.png" alt="drawing" width="420" height = "210"/>
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/movieList.05.png" alt="drawing" width="210" height = "420"/>
 </center>
 
 When click on a search icon in appBar, it must be ability to write a query to search, to achieve that you should use SearchDelegate.

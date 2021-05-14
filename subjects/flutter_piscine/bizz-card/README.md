@@ -81,7 +81,7 @@ Change the content of lib/main.dart, so your app will look like:
 
 <center>
 
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/bizzCard.04.png" alt="drawing" width="210" height = "420"/>
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/bizzCard.04.png" alt="drawing" width="420" height = "210"/>
 
 </center>
 
