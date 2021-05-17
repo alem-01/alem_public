@@ -1,7 +1,7 @@
-## Introduction
+### Introduction
 
-Create an app, which shows a list of trending repositories on GitHub. You shuld use Firebase to implement a login redirect.
-Also see https://flutter.dev/docs/development/data-and-backend/state-mgmt/simple#changenotifier for more info on state management.
+Create an app, which shows a list of trending repositories on GitHub. You should use Firebase to implement a login redirect.
+Also see [the link](https://flutter.dev/docs/development/data-and-backend/state-mgmt/simple#changenotifier) for more info on state management.
 
 - JSON serialization
 - List Tile, Infinite scroll (ListViewBuilder)
@@ -12,7 +12,7 @@ Also see https://flutter.dev/docs/development/data-and-backend/state-mgmt/simple
 - Shared Preferences
 - Firebase
 
-## Objective:
+### Objective:
 
 - Work with API
 - Application flow

@@ -2,7 +2,7 @@
 
 Develop an app to work with JSON. You must display top rated movies on the first page. By tapping at a movie, a new route with more detailed information regarding the movie must be displayed. Searching for a movie via search bar must be included. Searching is done by movie name, entered string must be completely within movie name, i.e. if "vatar" is searched, "Avatar" must be included in the response. Not case sensitive.
 
-## Objective
+### Objective:
 
 - Infinite scroll
 - ListView
@@ -12,7 +12,7 @@ Develop an app to work with JSON. You must display top rated movies on the first
 - Images
 - Futures, async
 
-## Part 1
+### Part 1
 
 Create a ListView which will show the image, title and description from JSON file (see Assets section);
 
@@ -38,7 +38,7 @@ Your ListView should use FutureBuilder to wait for data from JSON file and then 
 <img src="https://github.com/alem-01/alem_public/blob/master/resources/movieList.01.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
 </center>
 
-## Part 2:
+### Part 2:
 
 Create a page with detailed info of a movie:
 
@@ -52,7 +52,7 @@ The appbar should have a name of the film and go back button.
 
 Visit  [https://flutter.dev/docs/cookbook/navigation/named-routes](https://flutter.dev/docs/cookbook/navigation/named-routes) to see how to implement routing.
 
-## Part 3:
+### Part 3:
 
 Implement Search
 
@@ -66,8 +66,6 @@ Implement Search
 </center>
 
 On a click on a search icon in the appBar user can search for the particular movie. To implement this feature you need to use SearchDelegate. 
-
-When user starts typing in the search field, list should be instantly filtered according to the query.
 
 Close button (X mark) should clear the search query. Back button should close the searchbar.
 

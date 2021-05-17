@@ -23,7 +23,7 @@ someFunction(bold: true, hidden: false);
 
 ### Null safety
 
-You might be wondering what does "?" sign in bool? mean?
+You might be wondering what does "?" sign in bool? mean.
 
 As Dart's documentation suggests - "...types in your code are non-nullable by default, meaning that variables can’t contain null unless you say they can. With null safety, your runtime null-dereference errors turn into edit-time analysis errors."
 

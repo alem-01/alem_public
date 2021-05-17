@@ -1,6 +1,6 @@
 ## dataStructures
 
-In this exercise you will work with data structures: List, Set and Map.
+In this exercise you will work with the following data structures: List, Set, and Map.
 
 ### List
 

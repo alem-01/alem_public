@@ -4,7 +4,7 @@ Develop a **stateful app** that displays categories to choose from, i.e. history
 
 Next, after tapping on the category the new route must show a corresponding image to the category, the question itself, true/false buttons. 
 
-After the question has been answered, you must let the user understand if the question was answered correctly. After the quiz is finished, user must see their result.
+After the question has been answered, you must let the user know if the question was answered correctly. After the quiz is finished, user must see their result.
 
 ### Objective:
 
@@ -16,7 +16,7 @@ After the question has been answered, you must let the user understand if the qu
 - Splash screen
 - Timer
 
-## First Part:
+### First Part:
 
 ### Categories page:
 
@@ -43,9 +43,9 @@ class Category {
 }
 ```
 
-Note: you can style the app as you want
+> Note: you can style the app as you want
 
-Note: only standard Dart package, package:flutter
+> Note: only standard Dart package, package:flutter
 
 
 
@@ -54,13 +54,12 @@ Note: only standard Dart package, package:flutter
 </center>
 
 
-## Second Part
+### Second Part
 
 ### Navigation and routing:
 
 - When tapping on category push screen to DetailedView, which shows appropriate image, question and true/false buttons
-- Use imperative way of navigating through the app
-- Create a stateful widget, so you can change page's state [https://flutter.dev/docs/development/ui/interactive](https://flutter.dev/docs/development/ui/interactive)
+- Create a stateful widget, so you can change page's state. [Example](https://flutter.dev/docs/development/ui/interactive)
 - When answering question change color of button or background, so the user know that answer is wrong or right
 
 

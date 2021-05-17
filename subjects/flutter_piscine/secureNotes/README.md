@@ -1,8 +1,10 @@
+### Introduction:
+
 The app where you can add your own notes
 
-Packages: your own sqflite package
+Packages: your own *sqflite* package
 
-## Objective:
+### Objective:
 
 - Work with textfields
 - Work with keyboard
@@ -10,7 +12,7 @@ Packages: your own sqflite package
 - Deleting
 - Reordering
 
-## First Part:
+### First Part:
 
 - Main Screen show display list of notes with title, and scheduled time
 - Implement ReordableListView to reorder items in list
@@ -27,15 +29,13 @@ Packages: your own sqflite package
 
 
  
-## Second Part:
+### Second Part:
 
 - Screen to add item
 - If one of the fields are empty show error
-- date textfield should be read only, and open DatePicker when clicked, then it should show the selected date
-- when keyboard opens it shouldn't display any layout errors
-- implement dismiss keyboard when tap on empty space
-
-
+- Date textfield should be read only, and open DatePicker when clicked, then it should show the selected date
+- When keyboard opens it shouldn't display any layout errors
+- Implement dismiss keyboard when tap on empty space
 
 <center>
 <img src="https://github.com/alem-01/alem_public/blob/master/resources/secureNotes.04.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
@@ -44,14 +44,12 @@ Packages: your own sqflite package
 
 </center>
 
-
-
-## Third Part:
+### Third Part:
 
 - Edit Screen
 - Show text in textfields to edit
 
-## Fourth Part:
+### Fourth Part:
 
 Add sqflite package, so your notes will be saved, even when app reloads
 
@@ -78,7 +76,7 @@ Database class should also have CRUD methods like getAllNotes, deleteAllNotes, a
 - deleteNote
 - updateNote
 
-## Fifth Part:
+### Fifth Part:
 
 Make a biometric authentication. Make sure that notes are not accessible without firstly authenticating user.
 

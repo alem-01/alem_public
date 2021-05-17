@@ -25,7 +25,7 @@ void turnOn() {
 }
 ```
 
-We know that every SmartTV is TV, therefore we can extend all the methods and fields of the TV class to the SmartTV class.
+We know that every SmartTV is a TV, therefore we can extend all the methods and fields of the TV class to the SmartTV class.
 
 By writing `@override`, we are overriding the behavior of the parent class, so that it meets our needs, and if we wanna call the parent classes' method, we simply put "super." before the name of the method.
 

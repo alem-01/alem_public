@@ -1,15 +1,17 @@
-The app library. You should create your own gallery, where you can load images from phone library or take a picture and immediately upload it.
+### Introduction:
 
-package allowed: image_picker
+You should create your own gallery, where you can load images from phone library or take a picture and immediately upload it.
 
-## First Part:
+Allowed package: image_picker
+
+### First Part:
 
 - Create an appbar with IconButton
-- When click on a button you should see 2 options: open camera or a gallery
-- See the usage of  image_picker package [https://pub.dev/packages/image_picker](https://pub.dev/packages/image_picker)
-- Don't forget to add special keys to Info.plist file under ios folder to access the camera and gallery, see : [https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/AboutInformationPropertyListFiles.html](https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/AboutInformationPropertyListFiles.html)
+- When you click on a button you should see 2 options: open camera or a gallery
+- See the usage of image_picker [package](https://pub.dev/packages/image_picker)
+- Don't forget to add special keys to Info.plist file under ios folder to access the camera and gallery, see [example](https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/AboutInformationPropertyListFiles.html)
 - Make both [Android](https://developer.android.com/reference/androidx/constraintlayout/widget/Guideline) and [iOS](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/) themes
-- Show some text when no image is chosen
+- Show warning text when no image is chosen
 
 <center>
 <img src="https://github.com/alem-01/alem_public/blob/master/resources/imageLibrary.01.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
@@ -19,13 +21,11 @@ package allowed: image_picker
 <img src="https://github.com/alem-01/alem_public/blob/master/resources/imageLibrary.03.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
 </center>
 
-## Second Part:
+### Second Part:
 
 - When user is done picking image or taking picture it should be added to GridList
-- When tapping on image user should see the whole image
-- Add an ability to zoom in, zoom out the image, see [https://api.flutter.dev/flutter/widgets/InteractiveViewer-class.html](https://api.flutter.dev/flutter/widgets/InteractiveViewer-class.html)
-
-Bonus: UI of the app
+- When an image is tapped, user should see the whole image
+- Add an ability to zoom in, zoom out the image, see [example](https://api.flutter.dev/flutter/widgets/InteractiveViewer-class.html)
 
 <center>
 <img src="https://github.com/alem-01/alem_public/blob/master/resources/imageLibrary.04.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>

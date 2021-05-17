@@ -8,13 +8,13 @@ Flutter is Google’s UI toolkit for building beautiful, natively compiled appli
 
 You can build Flutter apps using any text editor. It is recommended to use editors that have both Dart and Flutter plugins(Android Studio, IntelliJ, VS Code, or Emacs).
 
-You already have all installed on school computer, but if you want to set up your PC, then follow the official [installation guide](https://flutter.dev/docs/get-started/install).
+You should already have all installed on school computers, but if you want to set up your PC, then follow the official [installation guide](https://flutter.dev/docs/get-started/install).
 
 Before we start take a look at Flutter's [official documentation](https://flutter.dev/docs)
 
 Hint: You can see some Flutter samples [here](https://flutter.github.io/samples/#?type=cookbook) 👩🏽‍🍳
 
-## Making your first app
+### Making your first app
 
 BizzCard is a simple application which shows a static card with your personal information.
 
@@ -24,9 +24,9 @@ This subject is divided into 3 parts. Overall **objective** is:
 - Basic structure of a Flutter app.
 - How to run Flutter app on physical device or Android/iOS emulator.
 
-Note: only standard Flutter packages and url_launcher (for bonus) are allowed
+> Note: only standard Flutter packages and url_launcher (for bonus) are allowed
 
-## First Part
+### First Part
 
 In this part:
 
@@ -47,7 +47,7 @@ See the Run the app section in [https://flutter.dev/docs/get-started/test-drive?
 
 The starter point in Flutter app is in lib/main.dart. Change this file to change app's behavior.
 
-## Second Part:
+### Second Part:
 
 In this part:
 
@@ -61,7 +61,7 @@ Change the content of lib/main.dart, so your app will look like:
 <!-- </center> -->
 </center>
 
-## Third Part
+### Third Part
 
 In this part:
 

@@ -6,7 +6,7 @@ To work with objects' fields, either getting some information, or changing it, w
 
 An example of this principle is hunger - you should not change person's hunger level, but feed them instead. Since it is common to set or get fields' values, it is common to put getters and setters in the OOP.
 
-In Dart, when specify getters and setters, you must treat them as **fields**.
+In Dart, when you specify getters and setters, you must treat them as **fields**.
 
 Syntax of the getters and setters:
 

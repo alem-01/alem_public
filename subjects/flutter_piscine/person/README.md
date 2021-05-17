@@ -2,7 +2,7 @@
 
 ### Object Oriented Programming
 
-Dart supports object oriented programming on which Flutter framework relies. Instead of working only with functions in OOP you work with classes, each of which has 2 concepts: attribute and method. Attributes are needed to store various data in the instance of Class and methods are functions, which can use Class attributes for various manipulations. To understand OOP and its difference from functional programming visit [this website](https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260/).
+Dart supports object oriented programming on which Flutter framework relies. Instead of working only with functions in OOP you work with classes, each of which has 2 concepts: attributes and methods. Attributes are needed to store various data in the instance of Class and methods are functions, which can use Class attributes for various manipulations. To understand OOP and its difference from functional programming visit [this website](https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260/).
 
 Here is an example of the Class in Dart:
 
