@@ -22,7 +22,7 @@ personal data visualization. Public Stock Market Simulator API is provided.
 
 <img src="https://github.com/alem-01/alem_public/blob/master/resources/stockMarket.01.jpg?raw=true" style = "width: 210px !important; height: 420px !important;"/>
 
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/stockMarket.02.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/stockMarket.02.jpg?raw=true" style = "width: 210px !important; height: 420px !important;"/>
 </center>
 
 
