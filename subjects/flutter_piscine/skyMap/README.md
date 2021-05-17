@@ -15,6 +15,6 @@ Develop an app intended to work with GPS, accelerometer, and real-time data fetc
 
 
 
-## Objective:
+### Objective:
 
 To work with hardware sensors and applying custom widgets to draw the exoplanet objects on the screen. (There is a potential for an AR or VR app, pending to be tested).
