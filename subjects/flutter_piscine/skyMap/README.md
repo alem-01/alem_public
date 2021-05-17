@@ -4,7 +4,9 @@ Develop an app intended to work with GPS, accelerometer, and real-time data fetc
 
 <center>
 
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/skyMap.01.jpeg?raw=true" style = "width: 420px !important; height: 210px !important;"/>
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/skyMap.01.jpg?raw=true" style = "width: 420px !important; height: 210px !important;"/>
+
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/skyMap.02.png?raw=true" style = "width: 420px !important; height: 210px !important;"/>
 
 </center>
 
