@@ -4,13 +4,17 @@ Develop an app intended to work with GPS, accelerometer, and real-time data fetc
 
 <center>
 
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/skyMap.01.jpg?raw=true" style = "width: 420px !important; height: 210px !important;"/>
-
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/skyMap.02.png?raw=true" style = "width: 420px !important; height: 210px !important;"/>
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/skyMap.01.jpg?raw=true" style = "width: 840px !important; height: 420px !important;"/>
 
 </center>
 
+<center>
 
-## Objective
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/skyMap.02.png?raw=true" style = "width: 840px !important; height: 420px !important;"/>
+</center>
+
+
+
+## Objective:
 
 To work with hardware sensors and applying custom widgets to draw the exoplanet objects on the screen. (There is a potential for an AR or VR app, pending to be tested).
