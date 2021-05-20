@@ -11,6 +11,7 @@ Develop an app to work with JSON. You must display top rated movies on the first
 - AppBar actions
 - Images
 - Futures, async
+- Search Delegate
 
 ### Part 1
 
