@@ -10,4 +10,8 @@
 
 ###### Can you see historical data for any stock?
 
-###### Does the app follow Provider pattern?
+###### Does the app follow any of the necessary patterns?
+
+###### Are there both light and dark themes?
+
+

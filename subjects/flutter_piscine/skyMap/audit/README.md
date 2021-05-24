@@ -12,7 +12,7 @@
 
 ###### Try moving the phone around, does it behave accordingly?
 
-###### Does the app follow Provider pattern?
+###### Does the app follow any of the necessary patterns?
 
 #### Bonus:
 

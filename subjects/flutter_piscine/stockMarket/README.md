@@ -3,7 +3,10 @@
 The app is intended to simulate real time stock market. User must have an
 ability to log in, buy, hold, and sell stocks, see historical charts of stock price, and
 personal data visualization. Public Stock Market Simulator API is provided.
-Make sure to manage states via Provider pattern.
+Make sure to manage states via any of the following patterns:
+- BLoC
+- Provider 
+- MVC
 
 ### Todo list:
 
@@ -12,6 +15,7 @@ Make sure to manage states via Provider pattern.
 - Route to display historical data of the chosen stock
 - All the data must be fetched in real-time
 - Choose 20 stocks to monitor
+- Make a ligth and dark theme
 
 ### Objective:
 

@@ -4,7 +4,11 @@ Develop an app intended to work with GPS, accelerometer, and real-time data fetc
 You will be using hardware sensors' information to determine your location, and position of the device, i.e. is it looking down/up.   
 By having the data from sensors, you will send the data to the public API, retireve information about celestial objects, and display them on the black canvas.
 By tapping on the object, you must display short descripton of the object. Basic zoom in and out functionaltiy must be present.
-Make sure you manage states via Provider
+Make sure to manage states via any of the following patterns:
+- BLoC
+- Provider 
+- MVC
+
 
 
 ### Objective:
