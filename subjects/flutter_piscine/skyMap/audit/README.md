@@ -12,7 +12,7 @@
 
 ###### Try moving the phone around, does it behave accordingly?
 
-###### Does tapping on the object show some data about it?
+###### Does the app follow Provider pattern?
 
 #### Bonus:
 

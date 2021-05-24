@@ -3,13 +3,15 @@
 The app is intended to simulate real time stock market. User must have an
 ability to log in, buy, hold, and sell stocks, see historical charts of stock price, and
 personal data visualization. Public Stock Market Simulator API is provided.
-
+Make sure to manage states via Provider pattern.
 
 ### Todo list:
+
 - Route for login/signup page
 - Route with all the purchased stocks
 - Route to display historical data of the chosen stock
 - All the data must be fetched in real-time
+- Choose 20 stocks to monitor
 
 ### Objective:
 
@@ -17,6 +19,7 @@ personal data visualization. Public Stock Market Simulator API is provided.
 - Visualizing custom widgets in real-time
 - Making authentication and authorization services
 - Applying Firebase or making a custom backend
+- Use Provider pattern
 
 <center>
 

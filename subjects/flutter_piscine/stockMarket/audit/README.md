@@ -10,3 +10,4 @@
 
 ###### Can you see historical data for any stock?
 
+###### Does the app follow Provider pattern?
