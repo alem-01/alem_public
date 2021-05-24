@@ -11,7 +11,7 @@ Develop an app to work with JSON. You must display top rated movies on the first
 - AppBar actions
 - Images
 - Futures, async
-- Search Delegate
+- Provider
 
 ### Part 1
 
@@ -55,7 +55,7 @@ Visit  [https://flutter.dev/docs/cookbook/navigation/named-routes](https://flutt
 
 ### Part 3:
 
-Implement Search
+Implement Search using [Provider](https://pub.dev/packages/provider)
 
 
 <center>
@@ -66,11 +66,11 @@ Implement Search
 <img src="https://github.com/alem-01/alem_public/blob/master/resources/movieList.05.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
 </center>
 
-On a click on a search icon in the appBar user can search for the particular movie. To implement this feature you need to use SearchDelegate. 
+On click on a search icon show the TextField. 
 
-Close button (X mark) should clear the search query. Back button should close the searchbar.
+When click on enter filter filmes by text entered in TextField 
 
-When search bar has no text, show all the items.
+Pass date between screens using provider package
 
 ### **Assets**
   [movies.json](https://github.com/alem-01/alem_public/blob/master/subjects/flutter_piscine/movieList/movies.json)
