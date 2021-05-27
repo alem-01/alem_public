@@ -13,7 +13,7 @@ Implement following functionality:
 
 On map there must be:
 
-- Your favorite places as markers (with infoView), it will be empty on launch
+- Your favorite places as markers (with infoView) (places must be saved after reopenig the app)
 - When some place is tapped, open dialog window with title and description textfields
 - A button, which will navigate to current position of device
 - Search bar to search for addresses, places, use google places API. When suggested address is tapped on, navigate map to that place
