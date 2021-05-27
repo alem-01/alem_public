@@ -100,10 +100,7 @@ final String age;
 - Use DecorationImage inside BoxDecoration to style image
 - Use InkWell and SnackBar to show snackbar with `Tapped on ${name}` on click
 
-<center>
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/bizzCard.05.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
 
-</center>
 
 ### **Bonus**
    Add qr code, so anyone can scan it and get your full contact
