@@ -81,9 +81,6 @@ Change the content of lib/main.dart, so your app will look like:
 
 </center>
 
-<center>
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/bizzCard.04.png?raw=true" style = "width: 420px !important; height: 210px !important;"/>
-</center>
 
 Page **must** have:
 
@@ -109,6 +106,5 @@ final String age;
 </center>
 
 ### **Bonus**
-   Add a Button to make a call to a given number
+   Add qr code, so anyone can scan it and get your full contact
 
-> Note: you can only import from package:flutter/ and from Dart standard packages
