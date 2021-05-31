@@ -81,3 +81,7 @@ Database class should also have CRUD methods like getAllNotes, deleteAllNotes, a
 Make a biometric authentication. Make sure that notes are not accessible without firstly authenticating user.
 
 > Note: you may use local_auth
+
+### Sixth Part:
+
+Localize your apllication https://flutter.dev/docs/development/accessibility-and-localization/internationalization
