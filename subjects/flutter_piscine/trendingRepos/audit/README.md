@@ -1,22 +1,26 @@
 #### Functional
 
-###### Was the app committed within the required time period?
+###### Does app shows all fetch posts?
 
-###### Do you see splash screen when app loads?
+###### Are an email and a password asked for registration?
 
-###### Do you see login page when user is not logged in?
+###### Does the login with GitHub button redirects you to GitHub login WebView and after redirects you back to app?
 
-###### Does the login with GitHub button redirects you to GitHub login WebView and after that redirects you back to app?
+###### Does the app detect if user already exists?
 
-###### Are you able to logout?
+###### Is it possible to register?
 
-###### Do you see login page after logout
+###### Are you able to create post as not logged in user?
 
-###### Does the app use repo.dart model
+###### Are you able to up-vote/dow-nvote post as not logged in user?
 
-###### Does the app use service.dart class
+###### Are you able to delete post as not logged in user?
 
-###### Does the main page display 30 trending repos?
+###### Are you able to create post as  logged in user?
+
+###### Are you able to up-vote/dow-nvote post as  logged in user?
+
+###### Are you able to delete post as  logged in user?
 
 #### Bonus:
 
