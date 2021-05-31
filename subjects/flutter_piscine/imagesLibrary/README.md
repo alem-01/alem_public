@@ -34,3 +34,7 @@ Allowed package: image_picker
 
 <img src="https://github.com/alem-01/alem_public/blob/master/resources/imageLibrary.06.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
 </center>
+
+### Third Part:
+
+- Add dark/light mode themes
