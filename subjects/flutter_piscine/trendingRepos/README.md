@@ -1,36 +1,26 @@
 ### Introduction
 
-Create an app, which shows a list of trending repositories on GitHub. You should use Firebase to implement a login redirect.
-Also see [the link](https://flutter.dev/docs/development/data-and-backend/state-mgmt/simple#changenotifier) for more info on state management.
+Create your own hackernews app! - https://news.ycombinator.com/
 
-- JSON serialization
+## Objective:
+
+- Work with firebase api
+- Application flow
+- REST Api
+- Json serialization
 - List Tile, Infinite scroll (ListViewBuilder)
 - Routing
 - Auth
 - Futures
-- Work with API (GitHub)
-- Shared Preferences
-- Firebase
 
-### Objective:
+Your app should have following functionality:
 
-- Work with API
-- Application flow
-- Work with local storage
-- Data flow
+- Show all fetched posts on main screen, user can ony see posts when not logged in
+- Open link in a webview on post tap
+- Registration/Login using firebase
+- When user logged in:
+    - Create new post
+    - Delete post
+    - Make up-vote/down-vote
 
-Make the GitHub client;
-
-- Implement GitHub login using Firebase
-- Possibility to logout
-- When user logs out, app should open login page
-- Main screen should display 30 trending repos (use of SilverList is recommended https://api.flutter.dev/flutter/widgets/SliverList-class.html)
-- Add a splash screen with GitHub icon at the center
-- App should have repo.dart model, service class to fetch repos
-- Implement refresh: when user pulls down screen, make an API call, so that list of repos updates (https://api.flutter.dev/flutter/material/RefreshIndicator-class.html)
-
-See :  
-[Firebase](https://firebase.google.com/docs/auth/web/github-auth)  
-[Github api](https://api.github.com/search/repositories)
-[Github documentation](https://docs.github.com/en/rest)
-
+Bonus: Application UI
