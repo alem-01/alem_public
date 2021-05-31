@@ -8,6 +8,8 @@
 
 ###### Does the app show list of favorite places?
 
+###### Does the app show list of favorite places after reopening app?
+
 ###### Does it have info page?
 
 ###### Does map show markers with favorite places?
