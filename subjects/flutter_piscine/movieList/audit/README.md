@@ -13,8 +13,6 @@
 ###### Does the movie profile page display at least 5 parameters?
     
 ###### Does the search bar look for the movies by title?
-
-###### Does the user see filtered result when he or she starts typing the search query?
     
 ###### When no search query is supplied, does the app show all the items?
 
