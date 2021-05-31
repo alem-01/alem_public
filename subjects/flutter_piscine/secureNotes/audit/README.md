@@ -1,5 +1,7 @@
 #### Functional
 
+###### Does the app follows android guidelines?
+
 ###### Does the app run without any crashes?
 
 ###### Can you add a new note?
@@ -21,3 +23,6 @@
 ###### Do you see all notes after closing and opening app back?
 
 ###### Does all CRUD methods are implemented on database class and works properly?
+
+###### Does app has localization?
+
