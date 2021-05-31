@@ -10,7 +10,7 @@
 
 ###### Does the camera work both in iOS and Android
 
-###### Are there both Android and iOS themes?
+###### Are there both dark and light themes?
 
 ###### Does the app load chosen image
 
