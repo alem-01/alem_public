@@ -1,5 +1,7 @@
 #### Functional
 
+###### Does the app follows apple guidelines?
+
 ###### Does the app show appropriate text when no images are loaded
 
 ###### Does it have a button in the app bar
