@@ -16,8 +16,6 @@
 
 ###### Does the user see filtered result when he or she starts typing the search query?
     
-###### Does the close button (X mark) clear the search query? Does the back button close the searchbar?
-
 ###### When no search query is supplied, does the app show all the items?
 
 ###### No widgets are overflowed
