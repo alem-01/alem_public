@@ -14,7 +14,7 @@ Packages: your own *sqflite* package
 
 ### First Part:
 
-- App must be only in [Android](https://developer.android.com/reference/androidx/constraintlayout/widget/Guideline) and [iOS](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/) style!
+- App must be only in [Android](https://developer.android.com/reference/androidx/constraintlayout/widget/Guideline) style!
 - Main Screen show display list of notes with title, and scheduled time
 - Implement ReordableListView to reorder items in list
 - Add ability to delete item by swiping
