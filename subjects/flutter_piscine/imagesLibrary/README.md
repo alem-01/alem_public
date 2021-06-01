@@ -16,9 +16,6 @@ Allowed package: image_picker
 <center>
 <img src="https://github.com/alem-01/alem_public/blob/master/resources/imageLibrary.01.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
 
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/imageLibrary.02.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
-
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/imageLibrary.03.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
 </center>
 
 ### Second Part:
@@ -28,11 +25,9 @@ Allowed package: image_picker
 - Add an ability to zoom in, zoom out the image, see [example](https://api.flutter.dev/flutter/widgets/InteractiveViewer-class.html)
 
 <center>
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/imageLibrary.04.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/imageLibrary.02.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
 
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/imageLibrary.05.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
-
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/imageLibrary.06.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/imageLibrary.03.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
 </center>
 
 ### Third Part:
