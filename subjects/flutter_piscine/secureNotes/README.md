@@ -38,13 +38,6 @@ Packages: your own *sqflite* package
 - When keyboard opens it shouldn't display any layout errors
 - Implement dismiss keyboard when tap on empty space
 
-<center>
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/secureNotes.04.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
-
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/secureNotes.05.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
-
-</center>
-
 ### Third Part:
 
 - Edit Screen
