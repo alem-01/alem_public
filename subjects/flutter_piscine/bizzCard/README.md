@@ -71,15 +71,7 @@ Docs: https://flutter.dev/docs/development/ui/layout
 
 - Upload assets to pubspec.yaml
 
-Change the content of lib/main.dart, so your app will look like:
-
-<center>
-
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/bizzCard.02.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
-
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/bizzCard.03.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
-
-</center>
+Change the content of lib/main.dart
 
 
 Page **must** have:
