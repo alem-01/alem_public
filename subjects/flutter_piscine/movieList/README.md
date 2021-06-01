@@ -41,11 +41,7 @@ Your ListView should use FutureBuilder to wait for data from JSON file and then 
 
 ### Part 2:
 
-Create a page with detailed info of a movie:
-
-<center>
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/movieList.02.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
-</center>
+Create a page with detailed info of a movie
 
 It should have an image and minimum 5 parameters from the film's info; use scroll bar if the info doesn't fit in one page;
 
@@ -56,15 +52,6 @@ Visit  [https://flutter.dev/docs/cookbook/navigation/named-routes](https://flutt
 ### Part 3:
 
 Implement Search using [Provider](https://pub.dev/packages/provider)
-
-
-<center>
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/movieList.03.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
-
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/movieList.04.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
-
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/movieList.05.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
-</center>
 
 On click on a search icon show the TextField. 
 
