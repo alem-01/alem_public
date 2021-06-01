@@ -12,7 +12,7 @@ See:
     by Sagar Suri
 
 </center>
-    <img src="https://github.com/alem-01/alem_public/blob/master/resources/bizzCard.01.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
+    <img src="https://github.com/alem-01/alem_public/blob/master/resources/blocCounter.01.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
 </center>
 
 Documentation [https://bloclibrary.dev/#/gettingstarted](https://bloclibrary.dev/#/gettingstarted)
@@ -77,5 +77,5 @@ return MaterialApp(
 -   add button and event to handle decrementing counter
 
 </center>
-    <img src="https://github.com/alem-01/alem_public/blob/master/resources/bizzCard.01.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
+    <img src="https://github.com/alem-01/alem_public/blob/master/resources/blocCounter.02.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
 </center>
