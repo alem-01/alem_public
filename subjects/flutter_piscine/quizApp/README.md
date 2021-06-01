@@ -50,7 +50,7 @@ class Category {
 
 
 <center>
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/quizApp.02.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/quizApp.01.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
 </center>
 
 
@@ -64,11 +64,11 @@ class Category {
 
 
 <p align="left">
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/quizApp.01.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
+
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/quizApp.02.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
+
 <img src="https://github.com/alem-01/alem_public/blob/master/resources/quizApp.03.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
-
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/quizApp.04.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
-
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/quizApp.05.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
 </p>
 
 ## Third part
