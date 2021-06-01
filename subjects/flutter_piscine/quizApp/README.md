@@ -62,13 +62,11 @@ class Category {
 - Create a stateful widget, so you can change page's state. [Example](https://flutter.dev/docs/development/ui/interactive)
 - When answering question change color of button or background, so the user know that answer is wrong or right
 
-
-<p align="left">
+<center>
 <img src="https://github.com/alem-01/alem_public/blob/master/resources/quizApp.01.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
 
 <img src="https://github.com/alem-01/alem_public/blob/master/resources/quizApp.02.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
-
-</p>
+</center>
 
 ## Third part
 
