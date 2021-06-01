@@ -25,17 +25,17 @@ Documentation [https://bloclibrary.dev/#/gettingstarted](https://bloclibrary.dev
 
     —lib
 
-    —bloc
+        —bloc
 
-    —counter_bloc.dart
+            —counter_bloc.dart
 
-    —counter_event.dart
+            —counter_event.dart
 
-    -widgets
+        -widgets
 
-    —yourwidgets.dart
+            —yourwidgets.dart
 
-    —..
+        —..
 
     —main.dart
 
