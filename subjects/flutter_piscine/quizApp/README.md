@@ -68,7 +68,6 @@ class Category {
 
 <img src="https://github.com/alem-01/alem_public/blob/master/resources/quizApp.02.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
 
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/quizApp.03.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
 </p>
 
 ## Third part
@@ -79,7 +78,7 @@ When all question are answered show the score on a new page
 
 
 <center>
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/quizApp.06.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/quizApp.03.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
 </center>
 
 ### **Bonus**
