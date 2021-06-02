@@ -6,7 +6,7 @@ Allowed package: image_picker
 
 ### First Part:
 
-- Make an app in ios style, using apple interface [guidelines](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/)
+- Make an app in iOS style, using apple interface [guidelines](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/)
 - Create an appbar with IconButton
 - When you click on a button you should see 2 options: open camera or a gallery
 - See the usage of image_picker [package](https://pub.dev/packages/image_picker)
