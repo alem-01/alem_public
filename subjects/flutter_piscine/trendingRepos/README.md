@@ -20,7 +20,7 @@ Create your own hackernews app! - https://news.ycombinator.com/
 
 Your app should have following functionality:
 
-- Show all fetched posts on main screen, user can ony see posts when not logged in
+- Show all fetched posts on main screen
 - Open link in a webview on post tap
 - Registration/Login using firebase
 - When user logged in:
