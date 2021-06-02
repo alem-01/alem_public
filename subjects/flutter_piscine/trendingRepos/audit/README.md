@@ -4,8 +4,6 @@
 
 ###### Are an email and a password asked for registration?
 
-###### Does the login with GitHub button redirects you to GitHub login WebView and after redirects you back to app?
-
 ###### Does the app detect if user already exists?
 
 ###### Is it possible to register?
