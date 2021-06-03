@@ -3,7 +3,7 @@
 Create your own hackernews app! - https://news.ycombinator.com/
 
 <center>
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/hackernews.jpeg?raw=true" style = "width: 210px !important; height: 420px !important;"/>
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/hackernews.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
 <!-- </center> -->
 </center>
 
