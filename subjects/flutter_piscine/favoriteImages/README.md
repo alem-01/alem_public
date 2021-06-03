@@ -1,6 +1,6 @@
 ### Introduction:
 
-You should create your own gallery, where you can load images from phone library or take a picture and immediately upload it.
+You should create your gallery, where you can load images from phone library or take a picture and immediately upload it.
 
 Allowed package: image_picker
 
