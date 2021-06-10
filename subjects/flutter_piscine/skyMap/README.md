@@ -7,7 +7,6 @@ By tapping on the object, you must display short descripton of the object. Basic
 Make sure to manage states via any of the following patterns:
 - BLoC
 - Provider 
-- MVC
 
 
 
