@@ -56,7 +56,7 @@ In this part:
 Change the content of lib/main.dart, so your app will look like:
 
 <p align="center">
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/bizzCard.01.png" alt="drawing" width="210" height = "420"/>
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/bizzCard.01.png?raw=true" alt="drawing" width="210" height = "420"/>
 </p>
 
 ## Third Part
@@ -73,15 +73,15 @@ Change the content of lib/main.dart, so your app will look like:
 
 <p align="center">
 
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/bizzCard.02.png" alt="drawing" width="210" height = "420"/>
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/bizzCard.02.png?raw=true" alt="drawing" width="210" height = "420"/>
 
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/bizzCard.03.png" alt="drawing" width="210" height = "420"/>
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/bizzCard.03.png?raw=true" alt="drawing" width="210" height = "420"/>
 
 </p>
 </center>
 
 <p align="center">
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/bizzCard.04.png" alt="drawing" width="420" height = "210"/>
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/bizzCard.04.png?raw=true" alt="drawing" width="420" height = "210"/>
 </p>
 
 Page should have:
@@ -103,7 +103,7 @@ final String age;
 - Use InkWell and SnackBar to show snackbar with `Tapped on ${name}` on click
 
 <p align="center">
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/bizzCard.05.png" alt="drawing" width="210" height = "420"/>
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/bizzCard.05.png?raw=true" alt="drawing" width="210" height = "420"/>
 
 </p>
 

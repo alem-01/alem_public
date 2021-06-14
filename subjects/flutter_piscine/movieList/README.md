@@ -36,7 +36,7 @@ add fromJson method to make a json serialization, see more on [https://flutter.d
 Your ListView should use FutureBuilder to firstly wait for data from json and then show it when it loads.
 
 <p align="center">
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/movieList.01.png" alt="drawing" width="210" height = "420"/>
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/movieList.01.png?raw=true" alt="drawing" width="210" height = "420"/>
 </p>
 
 ## Part 2:
@@ -44,7 +44,7 @@ Your ListView should use FutureBuilder to firstly wait for data from json and th
 Create a detailed view of a movie:
 
 <p align="center">
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/movieList.02.png" alt="drawing" width="210" height = "420"/>
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/movieList.02.png?raw=true" alt="drawing" width="210" height = "420"/>
 </p>
 
 It should have an image and minimum 5 parameters from the film's info; use scroll bar if the info don't fit in one page;
@@ -59,11 +59,11 @@ Implement Seach
 
 
 <p align="center">
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/movieList.03.png" alt="drawing" width="210" height = "420"/>
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/movieList.03.png?raw=true" alt="drawing" width="210" height = "420"/>
 
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/movieList.04.png" alt="drawing" width="210" height = "420"/>
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/movieList.04.png?raw=true" alt="drawing" width="210" height = "420"/>
 
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/movieList.05.png" alt="drawing" width="210" height = "420"/>
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/movieList.05.png?raw=true" alt="drawing" width="210" height = "420"/>
 </p>
 
 When click on a search icon in appBar, it must be ability to write a query to search, to achieve that you should use SearchDelegate.
