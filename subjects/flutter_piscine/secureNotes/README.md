@@ -1,6 +1,6 @@
 ### Introduction:
 
-Develop an app for taking secure notes. A note is considered to be secure if the content of the note cannot be accessed without password verification. Make sure to let user access, add, delete, and change, and export notes.
+Develop an app for taking secure notes. A note is considered to be secure if the content of the note cannot be accessed without password verification. You can ensure such security by encripting content of the notes. Make sure to let user access, add, delete, and change, and export notes.
 
 ## Objective
 
@@ -28,7 +28,7 @@ At this point, when you make some changes, you must save notes encrypted so that
 
 ## Part 3:
 
-Implement Authentication
+Implement Authentication that required either a password or a biometrical verification.
 
 <center>
 <img src="https://github.com/alem-01/alem_public/blob/master/resources/secureNotes.03.jpg?raw=true" style = "width: 620px !important; height: 420px !important;"/>
