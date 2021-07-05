@@ -1,6 +1,8 @@
 # Introduction:
 
-Develop an app that simulates gravity. Each time you tap on the screen, red Circle of radius 100px must appear and it must be affected by gravity. 
+Develop an app that simulates gravity. Each time you tap on the screen, red Circle of radius 30px must appear and it must be affected by gravity. 
+
+By tapping on the screen, new circle must appear. The circle must appear only if there is neccessary room to do so, i.e. does not collide with other objects when it is created.
 
 Your shapes must move towards the Earth. Handle the collision of the circles so that they do not fall one in another, i.e. they must collide. All the objects must stay inside the borders of your phone, or any other device.
 
