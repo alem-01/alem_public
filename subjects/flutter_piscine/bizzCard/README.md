@@ -55,9 +55,9 @@ In this part:
 
 Change the content of lib/main.dart, so your app will look like:
 
-<p align="center">
+<!-- <p align="center"> -->
 <img src="https://github.com/alem-01/alem_public/blob/master/resources/bizzCard.01.png?raw=true" alt="drawing" width="210" height = "420"/>
-</p>
+<!-- </p> -->
 
 ## Third Part
 
