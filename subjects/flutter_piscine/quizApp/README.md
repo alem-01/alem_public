@@ -20,9 +20,9 @@ After the question has been answered, you must let the user understand if the qu
 
 - Add a splash/launch screen as an entry point
 
-<p align="center">
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/quizApp.01.png?raw=true" alt="drawing" width="210" height = "420"/>
-</p>
+<center>
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/quizApp.01.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
+</center>
 
 ## Second Part:
 
@@ -59,9 +59,9 @@ Note: only standard dart package, package:flutter
 
 
 
-<p align="center">
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/quizApp.02.png?raw=true" alt="drawing" width="210" height = "420"/>
-</p>
+<center>
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/quizApp.02.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
+</center>
 
 
 ## Third Part
@@ -75,12 +75,12 @@ Note: only standard dart package, package:flutter
 
 
 <p align="left">
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/quizApp.03.png?raw=true" alt="drawing" width="210" height = "420"/>
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/quizApp.03.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
 
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/quizApp.04.png?raw=true" alt="drawing" width="210" height = "420"/>
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/quizApp.04.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
 
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/quizApp.05.png?raw=true" alt="drawing" width="210" height = "420"/>
-</p>
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/quizApp.05.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
+</center>
 
 ## Fourth part
 
@@ -89,8 +89,8 @@ When all question answered show the score on a new page
 - It should have Text with score and button which pushes to a list with categories
 
 
-<p align="center">
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/quizApp.06.png?raw=true" alt="drawing" width="210" height = "420"/>
-</p>
+<center>
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/quizApp.06.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
+</center>
 
 - Bonus: add timer to question, so user can have fixed time to answer a question

@@ -55,10 +55,10 @@ In this part:
 
 Change the content of lib/main.dart, so your app will look like:
 
-<!-- <p align="center"> -->
+<!-- <center> -->
 <center>
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/bizzCard.01.png?raw=true" style = "width: 200px !important; height: 400px !important;"/>
-<!-- </p> -->
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/bizzCard.01.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
+<!-- </center> -->
 </center>
 
 ## Third Part
@@ -73,17 +73,17 @@ Docs: https://flutter.dev/docs/development/ui/layout
 
 Change the content of lib/main.dart, so your app will look like:
 
-<p align="center">
+<center>
 
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/bizzCard.02.png?raw=true" alt="drawing" width="210" height = "420"/>
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/bizzCard.02.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
 
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/bizzCard.03.png?raw=true" alt="drawing" width="210" height = "420"/>
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/bizzCard.03.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
 
-</p>
+</center>
 
-<p align="center">
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/bizzCard.04.png?raw=true" alt="drawing" width="420" height = "210"/>
-</p>
+<center>
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/bizzCard.04.png?raw=true" style = "width: 420px !important; height: 210px !important;"/>
+</center>
 
 Page should have:
 
@@ -103,10 +103,10 @@ final String age;
 - Use DecorationImage inside BoxDecoration to style image
 - Use InkWell and SnackBar to show snackbar with `Tapped on ${name}` on click
 
-<p align="center">
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/bizzCard.05.png?raw=true" alt="drawing" width="210" height = "420"/>
+<center>
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/bizzCard.05.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
 
-</p>
+</center>
 
 - Bonus : add a FloatingActionButton to make a call to a given number
 
