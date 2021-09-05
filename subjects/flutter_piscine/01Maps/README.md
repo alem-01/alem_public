@@ -27,7 +27,9 @@ On InfoPage Screen:
 don't forget about info.plist: 
 
 ```
+
 NSLocationWhenInUseUsageDescription
 NSLocationAlwaysUsageDescription
+
 ```
 
