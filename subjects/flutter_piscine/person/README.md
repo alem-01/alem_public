@@ -2,7 +2,7 @@
 
 ### Object Oriented Programming
 
-Dart supports object oriented programming on which Flutter framework relies. Instead of working only with functions in OOP you work with classes, each of which has 2 concepts: attributes and methods. Attributes are needed to store various data in the instance of Class and methods are functions, which can use Class attributes for various manipulations. To understand OOP and its difference from functional programming visit [this website](https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260/).
+Dart supports object oriented programming which Flutter framework relies on. Instead of working only with functions in OOP you work with classes, each of classes has 2 concepts: attributes and methods. Attributes are needed to store various data in the instance of Class and methods are functions, which can use Class attributes for various manipulations. To understand OOP and its difference from functional programming visit [this website](https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260/).
 
 Here is an example of the Class in Dart:
 
@@ -15,7 +15,7 @@ class Point {
 
 **Point** - name of the class, **x, y** - are fields
 
-What if you want to create a Point with different x and y? To do that one needs to declare **_Constructor_** - a function that specifies how to create object of a class given a set of parameters.
+What if one wants to create a Point with different x and y? To do that one needs to declare **_Constructor_** - a function that specifies how to create object of a class given a set of parameters.
 
 ```dart
 class Point {
@@ -29,7 +29,7 @@ class Point {
 }
 ```
 
-In Dart you can also use Constructor declaration of type **_Constructor(param1, param2...);_** thus saving a few lines of code if all you want to do is to pass arguments to values.
+In Dart one can also use Constructor declaration of type **_Constructor(param1, param2...);_** thus saving a few lines of code if all one wants to do is to pass arguments to values.
 
 ```dart
 class Point {
@@ -58,7 +58,7 @@ class Point {
   double x = 0; // field
   double y = 0; // field
    
-	Point(double x, double y) { // constructor
+Point(double x, double y) { // constructor
     this.x = x; // initializing field
     this.y = y; // initializing field
   }

@@ -2,7 +2,7 @@
 
 ### Optional parameters
 
-In Dart you can also make function arguments optional, meaning that function can work without optional argument. If the optional parameter is not given, it is considered to be null.
+In Dart you can also make function arguments optional, meaning that a function can work even if the optional argument is omitted. If the optional parameter is omitted, it is considered to be null.
 
 Example of function with optional parameters:
 

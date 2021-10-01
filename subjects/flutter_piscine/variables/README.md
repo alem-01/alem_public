@@ -8,7 +8,8 @@ var str1 = 'Patrick';
 String str2 = 'Spongebob';
 ```
 
-First way declares using `var` which detects variable type, second way explicitly declares using type keyword `String`.
+- first way declares using `var` which detects variable types
+- second way explicitly declares using variable's type, in the example it is `String`.
 
 Declare and initialize following variables:
 

@@ -6,7 +6,7 @@ Flutter is Google’s UI toolkit for building beautiful, natively compiled appli
 
 ### How to start?
 
-You can build Flutter apps using any text editor. It is recommended to use editors that have both Dart and Flutter plugins(Android Studio, IntelliJ, VS Code, or Emacs).
+You can build Flutter apps using any text editor. It is recommended to use editors that have both Dart and Flutter plugins (Android Studio, IntelliJ, VS Code).
 
 You should already have all installed on school computers, but if you want to set up your PC, then follow the official [installation guide](https://flutter.dev/docs/get-started/install).
 
@@ -51,7 +51,7 @@ The starter point in Flutter app is in lib/main.dart. Change this file to change
 
 In this part:
 
-- Build your first Hello World app
+- Build your first app
 
 Change the content of lib/main.dart, so your app will look like:
 

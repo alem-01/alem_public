@@ -2,7 +2,7 @@
 
 ### Named parameters
 
-In Dart you can declare functions that require explicit naming for arguments.
+In Dart you can declare functions that require explicit naming for arguments. Compare 2 functions below.
 
 ```dart
 // Instead of
@@ -11,8 +11,6 @@ void someFunction(bool bold, bool hidden) {...}
 someFunction(true, false);
 ```
 
-This way you must specify the name of argument each time you call a function. You can also skip parameter by simply not specifying its name and value.
-
 ```dart
 
 // You now must specify to which argument you are referring
@@ -20,6 +18,8 @@ void someFunction({bool? bold, bool? hidden}) {...}
 
 someFunction(bold: true, hidden: false);
 ```
+
+This way you must specify the name of argument each time you call a function. You can also skip parameter by simply not specifying its name and value.
 
 ### Null safety
 

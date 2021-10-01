@@ -2,14 +2,14 @@
 
 ### **Ternary operators**
 
-One can do different things with ternary operators. It comes handy when based on some condition you want to do different things, but also try to keep small amount of code.
+One can do different things with ternary operators. It comes handy when one wants to do actions based on some condition.
+This operation also keeps less amount of code, and hopefully more readable.
 
 Typical form of the ternary operator is:
 
 ```
 condition ? (value for true condition) : (value for false condition)
 ```
-
 
 ```dart
 bool four_greater_than_five = 4 > 5 ?  true : false;
