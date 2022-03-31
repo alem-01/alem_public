@@ -1,18 +1,22 @@
 ### Inroduction
 
 Implement simple counter app using Bloc Pattern.
-When you will start writing your own application, you will need to structure your app first. Flutter supports multiple state management architectures, so you better see this [page](https://flutter.dev/docs/development/data-and-backend/state-mgmt/options#bloc--rx) and choose suitable for your case.
+When you will start writing your own application, you will need to structure your app first.
 
 ### Objective
+
+- Observe state changes with `BlocObserver`.
+- `BlocProvider`, Flutter widget which provides a bloc to its children.
+- `BlocBuilder`, Flutter widget that handles building the widget in response to new states.
 
 In this subject you will implement Bloc pattern, which is created by Google.
 BLoC pattern uses Reactive Programming to handle the flow of data within an app.
 
 Bloc consist of 2 concepts :
 
-- Streams
-- Sinks
-  , which are provided by StramController.
+- `Streams`
+- `Sinks`
+  , which are provided by `StramController`.
 
 See:
 
@@ -29,6 +33,8 @@ See:
 💡 Documentation <a href="https://bloclibrary.dev/#/gettingstarted">https://bloclibrary.dev/#/gettingstarted</a>.
 </code> 
 </pre>
+
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/blocCounter.02.png?raw=true"/>
 
 ## Part 1:
 
@@ -83,5 +89,3 @@ return MaterialApp(
 ## Bonus:
 
 - add button and event to handle decrementing counter
-
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/blocCounter.02.png?raw=true"/>
