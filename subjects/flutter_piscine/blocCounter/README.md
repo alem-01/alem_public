@@ -1,13 +1,11 @@
 ### Inroduction
 
-### Objective
-
 Implement simple counter app using Bloc Pattern.
-
 When you will start writing your own application, you will need to structure your app first. Flutter supports multiple state management architectures, so you better see this [page](https://flutter.dev/docs/development/data-and-backend/state-mgmt/options#bloc--rx) and choose suitable for your case.
 
-In this subject you will implement Bloc pattern, which is created by Google. BLoC pattern uses Reactive Programming to handle the flow of data within an app.
+### Objective
 
+In this subject you will implement Bloc pattern, which is created by Google. BLoC pattern uses Reactive Programming to handle the flow of data within an app.
 Bloc consist of 2 concepts : Strams and Sinks, which are provided by StramController.
 
 See:
@@ -46,11 +44,11 @@ enum CounterEvent {
 }
 ```
 
-- go to bloc/counter_bloc.dart and create CounterBloc.class which extends from CounterBloc
+- go to bloc/counter_bloc.dart and create `CounterBloc` class which extends from `CounterBloc`
 
-note: you can generate bloc files using vscode extension
+> 💡 note: you can generate bloc files using vscode extension
 
-- implement override of mapEventToState function in CounterBloc class, so it will be switching between different events, and return value as an int. In our case we only have case with increment state
+- implement override of `mapEventToState` function in `CounterBloc` class, so it will be switching between different events, and return value as an int. In our case we only have case with increment state
 
 ## Part 3 (UI and getting data):
 
@@ -73,6 +71,4 @@ return MaterialApp(
 
 - add button and event to handle decrementing counter
 
-</center>
-    <img src="https://github.com/alem-01/alem_public/blob/master/resources/blocCounter.02.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
-</center>
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/blocCounter.02.png?raw=true"/>
