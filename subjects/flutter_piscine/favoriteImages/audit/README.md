@@ -4,21 +4,14 @@
 
 ###### Does the app show appropriate text when no images are loaded
 
-###### Does it have a button in the app bar
+###### Does it have a select image button in the appbar
 
-###### Does the bottom modal with 2 options is shown when user presses the button
+###### Tap on the select image button. Do you have an option to choose an image from gallery and take a picture?
 
 ###### Does the camera work both in iOS and Android
 
-###### Are there both dark and light themes?
-
 ###### Does the app load chosen image
 
-###### Does it opens image when user taps on image in gallery
+###### Tap on the image. Does it become full-size?
 
 ###### Can you zoom in, zoom out the image?
-
-#### Bonus:
-
-###### +Does UI of the app look good?
-

@@ -2,6 +2,8 @@
 
 ### Introduction
 
+Nowadays, it is very difficult to imagine a popular app that does not work with storing, accessing images.    
+In this app you will get a chance to practise it.    
 You should create your gallery, where you can load images from phone library or take a picture and immediately upload it.
 
 Allowed package: image_picker
@@ -13,7 +15,7 @@ Allowed package: image_picker
 - When you click on a button you should see 2 options: open camera or a gallery
 - See the usage of image_picker [package](https://pub.dev/packages/image_picker)
 - Don't forget to add special keys to Info.plist file under ios folder to access the camera and gallery, see [example](https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/AboutInformationPropertyListFiles.html)
-- Show warning text when no image is chosen
+- Show "No images selected" message if no images are loaded.
 
 <center>
 <img src="https://github.com/alem-01/alem_public/blob/master/resources/imageLibrary.01.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
@@ -31,7 +33,3 @@ Allowed package: image_picker
 
 <img src="https://github.com/alem-01/alem_public/blob/master/resources/imageLibrary.03.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
 </center>
-
-### Third Part
-
-- Add dark/light mode themes

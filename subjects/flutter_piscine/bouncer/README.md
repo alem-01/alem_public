@@ -2,18 +2,25 @@
 
 ### Introduction
 
+Some apps require using phone's hardware. In this app you are presented such an opportunity.   
+
 Develop an app that simulates gravity. The app should be a smaller version of the 90s game of bouncing ball, where ball would be moving around, and player’s objective is to prevent it from touching the bottom of the screen.
 
-The ball should move in a linear manner, bounce off the walls and you tile.
-Each time ball hits a tile, tiles should dissappear, except for player's tile.
-You should be able to move your tile via tilting your phone.
+
+### Rules of the game
+
+- Ball moves in a linear manner
+- Ball changes its direction 90° when it hits wall or tiles
+- All tiles except player's tile disappear when hit with a ball
+- Game ends when ball touches bottom part of the phone
+- Player's tile moves according to phone's tiltiness
 
 ### Objective
 
 - Working with accelerometer
 - "Physics" behind artifical gravity
 
-### Resoures
+### Example
 
 <center>
 

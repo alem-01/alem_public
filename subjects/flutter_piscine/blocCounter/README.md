@@ -2,7 +2,11 @@
 
 ### Inroduction
 
-Implement simple counter app using Bloc Pattern.
+Usually, when projects get bigger and more complex, managing all the widges, their states, and updating their children's states will become troublesome. To avoid possible complexity, we recommend using patterns.
+Patterns are built in a way that lets developers control the hierarchy of widgets much easier, and a popular one in the Flutter is - BLoC.
+
+
+Implement simple counter app using Bloc Pattern.  
 When you will start writing your own application, you will need to structure your app first.
 
 <img src="https://github.com/alem-01/alem_public/blob/master/resources/blocCounter.02.png?raw=true" width="200"/>

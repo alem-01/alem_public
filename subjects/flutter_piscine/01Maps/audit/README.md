@@ -1,36 +1,36 @@
 #### Functional
 
-###### Does the app run without crashes?
+###### Does the application run without crashes?
 
-###### Does the app have Bottom tabbar?
+###### Does the application have Bottom tabbar?
 
-###### Does the app show google maps?
+###### Does the application show google maps?
 
-###### Does the app show list of favorite places?
+###### Does the application show list of favorite places?
 
-###### Does the app show list of favorite places after reopening app?
+###### Does the application show list of favorite places after reopening application?
 
-###### Does it have info page?
+###### Does the application contain an information page?
 
 ###### Does map show markers with favorite places?
 
-###### When tap on map, does dialog window show 2 textfields?
+###### When map is tapped, does dialog window show 2 textfields: name and description?
 
-###### Does it have current location button?
+###### Does the application have current location button?
 
-###### Does app have searchbar?
+###### Does the application have searchbar?
 
-###### When tap on searchbar does it show list of suggestions?
+###### Tap the searchbar. Does the application show list of suggestions?
 
-###### When tap on suggestion list item, does map navigate to place?
+###### Tap an item in suggestion list. Does the map navigate to place?
 
-###### Can you delete place from favorites places list?
+###### Can you delete a place from favorites places list?
 
-###### When delete place from list, does it removes from map?
+###### Delete place from list. Does the application remove it from map?
 
-###### Does the app work both on android and ios?
+###### Does the application work both on android and ios?
 
-###### When tap on marker does info view show?
+###### Tap on marker. Do you see relevant information about the place?
 
 #### Bonus:
 
