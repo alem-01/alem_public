@@ -44,7 +44,7 @@ Your ListView should use FutureBuilder to wait for data from JSON file and then 
 <img src="https://github.com/alem-01/alem_public/blob/master/resources/movieList.01.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
 </center>
 
-### Part 2:
+### Part 2
 
 Create a page with detailed information of the movie.
 
@@ -54,7 +54,7 @@ The appbar should have a name of the film and go back button.
 
 Visit  [https://flutter.dev/docs/cookbook/navigation/named-routes](https://flutter.dev/docs/cookbook/navigation/named-routes) to see how to implement routing.
 
-### Part 3:
+### Part 3
 
 Implement Search using [Provider](https://pub.dev/packages/provider).
 
