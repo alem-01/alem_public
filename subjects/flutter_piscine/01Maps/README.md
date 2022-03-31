@@ -1,3 +1,5 @@
+# 01Maps
+
 ### Introduction
 
 Create an app where you can save the list of your favorite places and show them in the app.
@@ -29,11 +31,9 @@ On InfoPage Screen:
 don't forget about info.plist: 
 
 ```
-
 NSLocationWhenInUseUsageDescription
 NSLocationAlwaysUsageDescription
-
 ```
 
-### Bonus:
+### Bonus
 - Smile on your audits :)
