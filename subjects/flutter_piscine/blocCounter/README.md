@@ -27,8 +27,7 @@ Architect your Flutter project using BLoC pattern</a>, by Sagar Suri
 
 <pre>
 <code>
-💡 Documentation <a href="https://bloclibrary.dev/#/gettingstarted">
-https://bloclibrary.dev/#/gettingstarted</a>.
+💡 Documentation <a href="https://bloclibrary.dev/#/gettingstarted">https://bloclibrary.dev/#/gettingstarted</a>.
 </code> 
 </pre>
 
