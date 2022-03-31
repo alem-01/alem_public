@@ -12,14 +12,10 @@
     
 ###### Does the movie profile page display at least 5 parameters?
     
-###### Does the search bar look for the movies by title?
+###### Does the search bar look for the movies by title, as does SQL's ***ilike*** comparision?
     
 ###### When no search query is supplied, does the app show all the items?
 
-###### No widgets are overflowed
+###### There are no widgets are overflowed?
 
 ###### Does the app behave as it is supposed to?
-
-#### Bonus:
-
-###### +Is the UI/UX outstanding?

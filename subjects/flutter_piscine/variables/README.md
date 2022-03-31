@@ -4,12 +4,12 @@ In Dart you can declare variables in two ways:
 
 ```dart
 var str1 = 'Patrick';
-// or...
+// or ...
 String str2 = 'Spongebob';
 ```
 
-- first way declares using `var` which detects variable types
-- second way explicitly declares using variable's type, in the example it is `String`.
+- The first way declares using `var` which detects variable types automatically.
+- The second way explicitly declares using variable's type, in the example it is `String`.
 
 Declare and initialize following variables:
 

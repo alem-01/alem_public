@@ -1,28 +1,24 @@
 #### Functional
 
-###### Does the app follows android guidelines?
-
 ###### Does the app run without any crashes?
 
 ###### Can you add a new note?
 
-###### Can you delete note?
+###### Can you delete a note?
 
 ###### Can you delete all notes?
 
-###### Can you edit note?
+###### Can you edit a note?
 
-###### Can you pick a time?
+###### Is the note saved after editing?
 
-###### Does the note saved after editing?
+###### Does the app show error when some fields are empty?
 
-###### Does the app shows when fields are empty?
-
-###### Does the main screen shows list tile with title, description and date?
+###### Does the main screen shows list tile with title, description?
 
 ###### Do you see all notes after closing and opening app back?
 
 ###### Does all CRUD methods are implemented on database class and works properly?
 
-###### Does app has localization?
+###### Does app has authentication?
 

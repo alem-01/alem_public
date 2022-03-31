@@ -53,7 +53,8 @@ In this part:
 
 - Build your first app
 
-Change the content of lib/main.dart, so your app will look like:
+You should display static information about yourself, i.e. name, surname, age, phone number, email, and image.
+Try to make it as it is shown in the example below:
 
 <!-- <center> -->
 <center>
@@ -61,39 +62,17 @@ Change the content of lib/main.dart, so your app will look like:
 <!-- </center> -->
 </center>
 
-### Third Part
-
-In this part:
-
-- Understanding standard layouts
-
-Docs: https://flutter.dev/docs/development/ui/layout
-
-- Upload assets to pubspec.yaml
-
-Change the content of lib/main.dart
+Possible diagram of widget tree for the app: https://flutter.dev/docs/development/ui/layout
 
 
-Page **must** have:
-
-- User.dart file for User model with parameters:
-
-```
-final String fullName;
-final String phone;
-final String mail;
-final String age;
-```
-
+#### Helpful keywords for research:
 - AppBar
 - Column to align text in a card
 - Stack to place image on Container
 - Padding to add paddings to Container
 - Use DecorationImage inside BoxDecoration to style image
-- Use InkWell and SnackBar to show snackbar with `Tapped on ${name}` on click
-
 
 
 ### **Bonus**
-   Add qr code, so anyone can scan it and get your full contact
+- Add qr code below the image, so anyone can scan it and get your full contact
 

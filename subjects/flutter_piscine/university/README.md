@@ -4,7 +4,7 @@
 
 Sometimes we need to limit access to class attributes so that it can be accessed only from the class itself. This concept is called **Encapsulation.**
 
-In Dart you can make attribute private (meaning that it can be changed or used only in the instances of this class) by putting underscore (_) in the beginning of field's or method's name.
+In Dart you can make attributes private (meaning that they can be changed or used only in the instances of this class) by putting underscore (_) in the beginning of fields' or methods' name.
 
 
 Bear in mind that on a class level there is no Encapsulation in Dart. According to Dart's documentation:
