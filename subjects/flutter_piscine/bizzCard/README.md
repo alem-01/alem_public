@@ -15,6 +15,8 @@ Before we start take a look at Flutter's [official documentation](https://flutte
 
 Hint: You can see some Flutter samples [here](https://flutter.github.io/samples/#?type=cookbook) 👩🏽‍🍳
 
+### Objective
+
 ### Making your first app
 
 BizzCard is a simple application which shows a static card with your personal information.
