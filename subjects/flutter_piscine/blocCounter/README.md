@@ -8,40 +8,38 @@ Bloc consist of 2 concepts : Strams and Sinks, which are provided by StramContro
 
 See:
 
--   [Architect your Flutter project using BLoC pattern](https://medium.com/flutterpub/architecting-your-flutter-project-bd04e144a8f1),
-    by Sagar Suri
+- [Architect your Flutter project using BLoC pattern](https://medium.com/flutterpub/architecting-your-flutter-project-bd04e144a8f1),
+  by Sagar Suri
 
-</center>
-    <img src="https://github.com/alem-01/alem_public/blob/master/resources/blocCounter.01.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
-</center>
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/blocCounter.01.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
 
 Documentation [https://bloclibrary.dev/#/gettingstarted](https://bloclibrary.dev/#/gettingstarted)
 
 ## Part 1:
 
--   Create new flutter app, so it will generate sample Counter App
--   Add flutter_bloc as a dependecy of your app
--   App structure should be similar to:
+- Create new flutter app, so it will generate sample Counter App
+- Add flutter_bloc as a dependecy of your app
+- App structure should be similar to:
 
-    —lib
+  —lib
 
-        —bloc
+      —bloc
 
-            —counter_bloc.dart
+          —counter_bloc.dart
 
-            —counter_event.dart
+          —counter_event.dart
 
-        -widgets
+      -widgets
 
-            —yourwidgets.dart
+          —yourwidgets.dart
 
-        —..
+      —..
 
-    —main.dart
+  —main.dart
 
 ## Part 2:
 
--   add enum to bloc/couter_event.dart
+- add enum to bloc/couter_event.dart
 
 ```jsx
 enum CounterEvent {
@@ -49,15 +47,15 @@ enum CounterEvent {
 }
 ```
 
--   go to bloc/counter_bloc.dart and create CounterBloc.class which extends from CounterBloc
+- go to bloc/counter_bloc.dart and create CounterBloc.class which extends from CounterBloc
 
 note: you can generate bloc files using vscode extension
 
--   implement override of mapEventToState function in CounterBloc class, so it will be switching between different events, and return value as an int. In our case we only have case with increment state
+- implement override of mapEventToState function in CounterBloc class, so it will be switching between different events, and return value as an int. In our case we only have case with increment state
 
 ## Part 3 (UI and getting data):
 
--   Inside MyApp class wrap your home page with BlocProvider class.
+- Inside MyApp class wrap your home page with BlocProvider class.
 
 ```jsx
 return MaterialApp(
@@ -68,13 +66,13 @@ return MaterialApp(
 );
 ```
 
--   Inside Home class create instance of CounterBloc class
--   Use BlocBuilder to state from CounterBloc
--   Add "+" button to call CounterEvent.increment
+- Inside Home class create instance of CounterBloc class
+- Use BlocBuilder to state from CounterBloc
+- Add "+" button to call CounterEvent.increment
 
 ## Bonus:
 
--   add button and event to handle decrementing counter
+- add button and event to handle decrementing counter
 
 </center>
     <img src="https://github.com/alem-01/alem_public/blob/master/resources/blocCounter.02.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
