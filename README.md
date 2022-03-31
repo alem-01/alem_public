@@ -9,7 +9,7 @@
 | 3   | Quest | QuizApp         | 1 day    | [github.com](./subjects/flutter_piscine/quizApp)         |
 | 4   | Quest | MovieList       | 2 days   | [github.com](./subjects/flutter_piscine/movieList)       |
 | 5   | Rush  | Hackernews      | 2 days   | [github.com](./subjects/flutter_piscine/hackernews)      |
-| 6   | Quest | FavouriteImages | 2 day    | [github.com](./subjects/flutter_piscine/favouriteImages) |
+| 6   | Quest | FavouriteImages | 1 day    | [github.com](./subjects/flutter_piscine/favouriteImages) |
 | 7   | Quest | SecureNotes     | 2 days   | [github.com](./subjects/flutter_piscine/secureNotes)     |
 | 8   | Quest | Bouncer         | 2 days   | [github.com](./subjects/flutter_piscine/bouncer)         |
 | 9   | Rush  | 01Map           | 2 days   | [github.com](./subjects/flutter_piscine/01Maps)          |
