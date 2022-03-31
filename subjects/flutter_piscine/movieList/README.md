@@ -1,11 +1,13 @@
-### Introduction:
+# MovieList
+
+### Introduction
 
 When developign a fullly functional app, you will most likely use some external files to display on your app. One of the most popular file types is JSON.  
 Develop an app to work with JSON. You are given a file with information about different movies.
 You must display top rated movies on the first page of the app. By tapping at a movie, a new route with more detailed information regarding the movie must be displayed.  
 Searching for a movie via search bar must be included. Searching is done by movie name, entered string must be completely within movie name, i.e. if "vatar" is searched, "Avatar" must be included in the response. Basically, search must work like SQL's ***ilike*** comparision.
 
-### Objective:
+### Objective
 
 - Infinite scroll
 - ListView
