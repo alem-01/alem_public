@@ -5,7 +5,9 @@ When you will start writing your own application, you will need to structure you
 
 ### Objective
 
-In this subject you will implement Bloc pattern, which is created by Google. BLoC pattern uses Reactive Programming to handle the flow of data within an app.
+In this subject you will implement Bloc pattern, which is created by Google.
+BLoC pattern uses Reactive Programming to handle the flow of data within an app.
+
 Bloc consist of 2 concepts : Strams and Sinks, which are provided by StramController.
 
 See:
