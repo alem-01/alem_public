@@ -8,7 +8,7 @@ Hacker News is a social news website, which mainly focusses on Computer Science 
 
 ### Objective
 
-Your objective for this raid is to create an UI for [HackerNewsAPI]("https://github.com/HackerNews/API").
+Your objective for this raid is to create an UI for [HackerNewsAPI](https://github.com/HackerNews/API).
 
 - Work with firebase api
 - Application flow
