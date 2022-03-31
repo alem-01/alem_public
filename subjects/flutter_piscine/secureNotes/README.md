@@ -1,10 +1,12 @@
-### Introduction:
+# secureNotes
+
+### Introduction
 
 The app where you can add your own notes. It should behave as normal notes app where you can add, modify, remove old notes, but the app should be secure. Being secure means that the notes should only be accessible through the app, and only after biometric authentication.
 
 Packages: your own *sqflite* package.
 
-### Objective:
+### Objective
 
 - Work with textfields
 - Work with keyboard
@@ -12,7 +14,7 @@ Packages: your own *sqflite* package.
 - Deleting
 - Reordering
 
-### First Part:
+### First Part
 
 - App must be only in [Android](https://developer.android.com/design) style!
 - Main Screen show display list of notes with title, and scheduled time
@@ -20,26 +22,21 @@ Packages: your own *sqflite* package.
 - Add ability to delete item by swiping
 - Add "add" button, which opens screen with 3 text fields
 
-<center>
 <img src="https://github.com/alem-01/alem_public/blob/master/resources/secureNotes.01.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
 
 <img src="https://github.com/alem-01/alem_public/blob/master/resources/secureNotes.02.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
 
-</center>
-
-
- 
-### Second Part:
+### Second Part
 
 - Screen to add item
 - If one of the fields are empty show error
 
-### Third Part:
+### Third Part
 
 - Edit Screen
 - Show text in textfields to edit
 
-### Fourth Part:
+### Fourth Part
 
 Add sqflite package, so your notes will be saved, even when app reloads
 When app loads it should get notes from database
@@ -65,12 +62,12 @@ Database class should also have CRUD methods like getAllNotes, deleteAllNotes, a
 - deleteNote
 - updateNote
 
-### Fifth Part:
+### Fifth Part
 
 Make a biometric authentication. Make sure that notes are not accessible without firstly authenticating user.
 
 > Note: you may use local_auth
 
-### Sixth Part:
+### Sixth Part
 
 Localize your apllication https://flutter.dev/docs/development/accessibility-and-localization/internationalization
