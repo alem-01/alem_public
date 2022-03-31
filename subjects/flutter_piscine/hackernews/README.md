@@ -21,12 +21,23 @@ Your objective for this raid is to create an UI for [HackerNewsAPI](https://gith
 
 Your app should have following functionality:
 
-- Show all fetched posts on main screen
-- Open link in a webview on post tap
-- Registration/Login using firebase
-- When user logged in:
-  - Create new post
-  - Delete post
-  - Make up-vote/down-vote
+- Show list of all fetched posts on main screen:
+  - Each Post has an Upvote option to vote the post
+  - Each Post displays Total Votes and Total Comments on them
+  - Displays the Username of the Creator
+  - Displays the Submission Time
+  - Open link in a webview on post tap
+
+On the website, we can Post, Comment, or reply **only when we have an account**.
+
+- Registration Page using firebase
+- Login page using firebase
+
+When user logged in:
+
+- Create new post, it should have:
+  - Title, URL and the Description.
+- Delete post
+- Make up-vote/down-vote
 
 Bonus: Application UI
