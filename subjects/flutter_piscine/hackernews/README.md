@@ -10,15 +10,6 @@ Hacker News is a social news website, which mainly focusses on Computer Science 
 
 Your objective for this raid is to create an UI for [HackerNewsAPI](https://github.com/HackerNews/API).
 
-- Work with firebase api
-- Application flow
-- REST Api
-- Json serialization
-- List Tile, Infinite scroll (ListViewBuilder)
-- Routing
-- Auth
-- Futures
-
 Your app should have following functionality:
 
 - Show list of all fetched posts on main screen:
