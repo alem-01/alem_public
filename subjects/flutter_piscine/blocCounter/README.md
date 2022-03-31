@@ -1,3 +1,7 @@
+### Inroduction
+
+### Objective
+
 Implement simple counter app using Bloc Pattern.
 
 When you will start writing your own application, you will need to structure your app first. Flutter supports multiple state management architectures, so you better see this [page](https://flutter.dev/docs/development/data-and-backend/state-mgmt/options#bloc--rx) and choose suitable for your case.
@@ -21,21 +25,16 @@ Documentation [https://bloclibrary.dev/#/gettingstarted](https://bloclibrary.dev
 - Add flutter_bloc as a dependecy of your app
 - App structure should be similar to:
 
+```bash
   —lib
-
       —bloc
-
           —counter_bloc.dart
-
           —counter_event.dart
-
       -widgets
-
           —yourwidgets.dart
-
       —..
-
   —main.dart
+```
 
 ## Part 2:
 
