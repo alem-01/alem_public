@@ -1,8 +1,8 @@
 ### Introduction:
 
-The app where you can add your own notes
+The app where you can add your own notes. It should behave as normal notes app where you can add, modify, remove old notes, but the app should be secure. Being secure means that the notes should only be accessible through the app, and only after biometric authentication.
 
-Packages: your own *sqflite* package
+Packages: your own *sqflite* package.
 
 ### Objective:
 
@@ -33,9 +33,6 @@ Packages: your own *sqflite* package
 
 - Screen to add item
 - If one of the fields are empty show error
-- Date textfield should be read only, and open DatePicker when clicked, then it should show the selected date
-- When keyboard opens it shouldn't display any layout errors
-- Implement dismiss keyboard when tap on empty space
 
 ### Third Part:
 
@@ -45,7 +42,6 @@ Packages: your own *sqflite* package
 ### Fourth Part:
 
 Add sqflite package, so your notes will be saved, even when app reloads
-
 When app loads it should get notes from database
 
 ```jsx

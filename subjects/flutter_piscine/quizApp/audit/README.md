@@ -10,7 +10,7 @@
 
 ###### Does every category have a name, appropriate image?
 
-###### Does tapping the category switch routes?
+###### Does tapping the category switch from first route?
 
 ###### Are there question text, image, and true/false buttons on the page containing questions?
 
@@ -24,6 +24,4 @@
 
 ###### +Are there images for all the questions?
 
-###### +Are there any animations?
-
-###### +Do you like the UI of the app?
+###### +Are there any animations when question is answered?
