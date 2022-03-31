@@ -11,7 +11,7 @@ See:
 - [Architect your Flutter project using BLoC pattern](https://medium.com/flutterpub/architecting-your-flutter-project-bd04e144a8f1),
   by Sagar Suri
 
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/blocCounter.01.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/blocCounter.01.png?raw=true"/>
 
 Documentation [https://bloclibrary.dev/#/gettingstarted](https://bloclibrary.dev/#/gettingstarted)
 
