@@ -1,3 +1,5 @@
+# blocCounter
+
 ### Inroduction
 
 Implement simple counter app using Bloc Pattern.
@@ -36,7 +38,7 @@ See:
 </code> 
 </pre>
 
-## Part 1:
+### Part 1
 
 - Create new flutter app, so it will generate sample Counter App
 - Add flutter_bloc as a dependecy of your app
@@ -53,7 +55,7 @@ See:
   —main.dart
 ```
 
-## Part 2:
+### Part 2
 
 - add enum to bloc/couter_event.dart
 
@@ -69,7 +71,7 @@ enum CounterEvent {
 
 - implement override of `mapEventToState` function in `CounterBloc` class, so it will be switching between different events, and return value as an int. In our case we only have case with increment state
 
-## Part 3 (UI and getting data):
+### Part 3 (UI and getting data)
 
 - Inside MyApp class wrap your home page with BlocProvider class.
 
@@ -86,6 +88,6 @@ return MaterialApp(
 - Use BlocBuilder to state from CounterBloc
 - Add "+" button to call CounterEvent.increment
 
-## Bonus:
+### Bonus
 
 - add button and event to handle decrementing counter
