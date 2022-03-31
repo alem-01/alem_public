@@ -1,4 +1,4 @@
-### Introduction:
+### Introduction
 
 Develop an app that simulates gravity. The app should be a smaller version of the 90s game of bouncing ball, where ball would be moving around, and player’s objective is to prevent it from touching the bottom of the screen.
 
