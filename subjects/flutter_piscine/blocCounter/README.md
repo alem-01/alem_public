@@ -18,8 +18,7 @@ See:
 
 <pre>
 <code>
-💡 See this article <a href="https://medium.com/flutterpub/architecting-your-flutter-project-bd04e144a8f1">
-Architect your Flutter project using BLoC pattern</a>, by Sagar Suri
+💡 See this article <a href="https://medium.com/flutterpub/architecting-your-flutter-project-bd04e144a8f1"> Architect your Flutter project using BLoC pattern</a>, by Sagar Suri
 </code> 
 </pre>
 
