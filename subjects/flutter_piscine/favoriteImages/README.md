@@ -1,10 +1,12 @@
-### Introduction:
+# favoriteImages
+
+### Introduction
 
 You should create your gallery, where you can load images from phone library or take a picture and immediately upload it.
 
 Allowed package: image_picker
 
-### First Part:
+### First Part
 
 - Make an app in iOS style, using apple interface [guidelines](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/)
 - Create an appbar with IconButton
@@ -18,7 +20,7 @@ Allowed package: image_picker
 
 </center>
 
-### Second Part:
+### Second Part
 
 - When user is done picking image or taking picture it should be added to GridList
 - When an image is tapped, user should see the whole image
@@ -30,6 +32,6 @@ Allowed package: image_picker
 <img src="https://github.com/alem-01/alem_public/blob/master/resources/imageLibrary.03.png?raw=true" style = "width: 210px !important; height: 420px !important;"/>
 </center>
 
-### Third Part:
+### Third Part
 
 - Add dark/light mode themes
