@@ -40,4 +40,6 @@ When user logged in:
 - Delete post
 - Make up-vote/down-vote
 
-Bonus: Application UI
+### Bonus
+
+- Application UI
