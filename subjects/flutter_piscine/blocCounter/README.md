@@ -3,6 +3,8 @@
 Implement simple counter app using Bloc Pattern.
 When you will start writing your own application, you will need to structure your app first.
 
+<img src="https://github.com/alem-01/alem_public/blob/master/resources/blocCounter.02.png?raw=true" width="200"/>
+
 ### Objective
 
 - Observe state changes with `BlocObserver`.
@@ -33,8 +35,6 @@ See:
 💡 Documentation <a href="https://bloclibrary.dev/#/gettingstarted">https://bloclibrary.dev/#/gettingstarted</a>.
 </code> 
 </pre>
-
-<img src="https://github.com/alem-01/alem_public/blob/master/resources/blocCounter.02.png?raw=true"/>
 
 ## Part 1:
 
