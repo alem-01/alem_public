@@ -2,7 +2,7 @@
 
 Create your own hackernews app! - https://news.ycombinator.com/
 
-Hacker News is a social news website, which mainly focusses on Computer Science and Entrepreneurship.
+Hacker News is a social news website, which mainly focusses on Computer Science and Entrepreneurship. You will make a client consisting of all the main features of the website.
 
 <img src="https://github.com/alem-01/alem_public/blob/master/resources/hackernews.png?raw=true" width="200"/>
 
