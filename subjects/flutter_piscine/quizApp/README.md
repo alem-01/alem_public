@@ -1,4 +1,6 @@
-### Introduction:
+# QuizApp
+
+### Introduction
 
 Develop a [**stateful app**](https://docs.flutter.dev/development/ui/interactive) that displays categories that you can choose from, i.e. history, pop culture, math, geography, etc (add name, and appropriate image).
 
@@ -8,7 +10,7 @@ Next, after tapping on the category the new route must show a corresponding imag
 After the question has been answered, you must let the user know if the question was answered correctly.  
 After the quiz is finished, user must see their result.
 
-### Objective:
+### Objective
 
 - Applying stateful widget
 - Routing
