@@ -1,6 +1,6 @@
 # Mobile development branch
 
-### Piscine Flutter (18 days)
+### Piscine Flutter
 
 |     | Type  | Name            | Duration | Link                                                     |
 | --- | ----- | --------------- | -------- | -------------------------------------------------------- |
@@ -15,7 +15,7 @@
 | 9   | Rush  | 01Map           | 2 days   | [github.com](./subjects/flutter_piscine/01Maps)          |
 | 10  | Quest | BlocCounter     | 3 days   | [github.com](./subjects/flutter_piscine/blocCounter)     |
 
-### Projects (18 weeks)
+### Projects
 
 |     | Type    | Name             | Duration | Link                                                 |
 | --- | ------- | ---------------- | -------- | ---------------------------------------------------- |
