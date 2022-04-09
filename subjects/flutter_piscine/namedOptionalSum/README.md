@@ -32,3 +32,5 @@ What happens if the argument of the function is optional and it is omitted? It s
 ### **Exercise**
 
 Write a function that accepts named parameters "first", "second", "third" and returns the sum of them. All the parameters are integers. Absent parameters are considered as 0. Name of the function - namedOptionalSum.
+
+[Next problem](https://github.com/alem-01/alem_public/edit/master/subjects/flutter_piscine/optionalSum)
