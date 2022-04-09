@@ -10,10 +10,13 @@
 | 4   | Quest | MovieList       | 2 days   | [github.com](./subjects/flutter_piscine/movieList)       |
 | 5   | Rush  | Hackernews      | 2 days   | [github.com](./subjects/flutter_piscine/hackernews)      |
 | 6   | Quest | FavouriteImages | 1 day    | [github.com](./subjects/flutter_piscine/favoriteImages) |
-| 7   | Quest | SecureNotes     | 2 days   | [github.com](./subjects/flutter_piscine/secureNotes)     |
-| 8   | Quest | Bouncer         | 2 days   | [github.com](./subjects/flutter_piscine/bouncer)         |
-| 9   | Rush  | 01Map           | 2 days   | [github.com](./subjects/flutter_piscine/01Maps)          |
-| 10  | Quest | BlocCounter     | 3 days   | [github.com](./subjects/flutter_piscine/blocCounter)     |
+| 7   | Quest | Bouncer         | 1 day   | [github.com](./subjects/flutter_piscine/bouncer)         |
+| 8   | Quest  | 01Map           | 1 day   | [github.com](./subjects/flutter_piscine/01Maps)          |
+| 9  | Quest | BlocCounter     | 2 days   | [github.com](./subjects/flutter_piscine/blocCounter)     |
+| 10   | Rush | SecureNotes     | 2 days   | [github.com](./subjects/flutter_piscine/secureNotes)     |
+
+
+
 
 ### Projects
 
