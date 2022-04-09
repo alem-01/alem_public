@@ -28,3 +28,5 @@ void main() {
 ### **Exercise**
 
 Write a function that accepts two integer arguments, and an optional integer argument. Return the sum of all the arguments. Name of the function - optionalSum.
+
+[Next problem](https://github.com/alem-01/alem_public/edit/master/subjects/flutter_piscine/maxNum)
