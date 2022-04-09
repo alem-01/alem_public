@@ -20,4 +20,4 @@ To run the program, execute a command:
 dart intro.dart
 ```
 
-[Next problem](https://github.com/alem-01/alem_public/edit/master/subjects/flutter_piscine/variables/README.md)
+[Next problem](https://github.com/alem-01/alem_public/edit/master/subjects/flutter_piscine/variables)
