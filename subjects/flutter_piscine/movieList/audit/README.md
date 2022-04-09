@@ -16,6 +16,6 @@
     
 ###### When no search query is supplied, does the app show all the items?
 
-###### There are no widgets are overflowed?
+###### Widgets should not be overflowed. Is it the case in both routes?
 
 ###### Does the app behave as it is supposed to?
