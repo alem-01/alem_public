@@ -16,10 +16,6 @@
 
 ###### Are you able to create post as logged in user?
 
-###### Are you able to up-vote/dow-nvote post as  logged in user?
+###### Are you able to up-vote/dow-nvote post as logged in user?
 
-###### Are you able to delete post as  logged in user?
-
-#### Bonus:
-
-###### +Is the UI/UX outstanding?
+###### Are you able to delete post as logged in user?
