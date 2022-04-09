@@ -52,3 +52,5 @@ Declare and initialize following variables:
 - `mapStr` of type `Map<String, int>` containing at least 3 pairs;
 
 > Note: main is not needed!
+
+[Next problem](https://github.com/alem-01/alem_public/edit/master/subjects/flutter_piscine/plainSum)
