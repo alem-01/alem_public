@@ -13,7 +13,7 @@ someFunction(true, false);
 
 ```dart
 
-// You now must specify to which argument you are referring
+// Now you must specify which argument you are referring to
 void someFunction({bool? bold, bool? hidden}) {...}
 
 someFunction(bold: true, hidden: false);
