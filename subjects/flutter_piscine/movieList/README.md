@@ -46,23 +46,13 @@ Your ListView should use FutureBuilder to wait for data from JSON file and then 
 
 ### Part 2
 
-Create a page with detailed information of the movie.
+Create a page with detailed information about the movie.
 
-It should have an image and minimum 5 parameters from the film's information; use scroll bar if the info doesn't fit in one page;
+It should have an image of the movie, at least 5 parameters from the film's information, i.e. when it was filmed, main actors, etc; use scroll bar if the info doesn't fit in one page;
 
 The appbar should have a name of the film and go back button.
 
 Visit  [https://flutter.dev/docs/cookbook/navigation/named-routes](https://flutter.dev/docs/cookbook/navigation/named-routes) to see how to implement routing.
-
-### Part 3
-
-Implement Search using [Provider](https://pub.dev/packages/provider).
-
-On click on a search icon show the TextField. 
-
-When click on enter filter filmes by text entered in TextField.
-
-Pass date between screens using provider package.
 
 ### **Assets**
   [movies.json](https://github.com/alem-01/alem_public/blob/master/subjects/flutter_piscine/movieList/movies.json)
