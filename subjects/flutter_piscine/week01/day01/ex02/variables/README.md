@@ -20,5 +20,3 @@ Declare and initialize following variables:
 - constant `pi` of type `double` containing pi value with 2 decimal points;
   
 > Note: no main needed!
-
-[Next problem](https://github.com/alem-01/alem_public/edit/master/subjects/flutter_piscine/dataStructures)

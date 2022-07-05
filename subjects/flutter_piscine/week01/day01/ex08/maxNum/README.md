@@ -25,4 +25,3 @@ int maxNum(int first, int second, int third) {...}
 
 The function must return the maximum of three numbers.
 
-[Next problem](https://github.com/alem-01/alem_public/edit/master/subjects/flutter_piscine/person)

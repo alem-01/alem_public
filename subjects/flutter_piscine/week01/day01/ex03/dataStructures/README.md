@@ -53,4 +53,3 @@ Declare and initialize following variables:
 
 > Note: main is not needed!
 
-[Next problem](https://github.com/alem-01/alem_public/edit/master/subjects/flutter_piscine/plainSum)

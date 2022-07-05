@@ -22,5 +22,3 @@ void main() {
   print(res); // prints 6
 }
 ```
-
-[Next problem](https://github.com/alem-01/alem_public/edit/master/subjects/flutter_piscine/namedRequiredSum)
